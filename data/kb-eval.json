@@ -1,0 +1,567 @@
+[
+  {
+    "id": "KB-FAQ-BUY-01",
+    "text": "家里海鲜多，买冰箱应该重点看什么？",
+    "expectFaqId": "FAQ-BUY-01",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-BUY-02",
+    "text": "预算8000元买冰箱加洗衣机够吗？",
+    "expectFaqId": "FAQ-BUY-02",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-BUY-03",
+    "text": "滚筒洗衣机和波轮洗衣机怎么选？",
+    "expectFaqId": "FAQ-BUY-03",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-BUY-04",
+    "text": "卧室买空调1匹还是1.5匹？",
+    "expectFaqId": "FAQ-BUY-04",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-BUY-05",
+    "text": "三口之家买洗碗机选几套的？",
+    "expectFaqId": "FAQ-BUY-05",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-BUY-06",
+    "text": "客厅3米观看距离买多大电视？",
+    "expectFaqId": "FAQ-BUY-06",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-BUY-07",
+    "text": "燃气热水器和电热水器哪个更省？",
+    "expectFaqId": "FAQ-BUY-07",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-BUY-08",
+    "text": "能效等级差一级一年差多少电费？",
+    "expectFaqId": "FAQ-BUY-08",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-PARA-01",
+    "text": "冰箱容积怎么换算成几口人使用？",
+    "expectFaqId": "FAQ-PARA-01",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-PARA-02",
+    "text": "空调匹数对应多大面积？",
+    "expectFaqId": "FAQ-PARA-02",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-PARA-03",
+    "text": "洗涤容量10公斤能洗多少衣服？",
+    "expectFaqId": "FAQ-PARA-03",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-PARA-04",
+    "text": "洗碗机13套是什么概念？",
+    "expectFaqId": "FAQ-PARA-04",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-PARA-05",
+    "text": "商品页的噪声dB是什么口径？",
+    "expectFaqId": "FAQ-PARA-05",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-PARA-06",
+    "text": "4K和8K电视实际差别大吗？",
+    "expectFaqId": "FAQ-PARA-06",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-DEL-01",
+    "text": "下单后多久能送到？",
+    "expectFaqId": "FAQ-DEL-01",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-DEL-02",
+    "text": "大件家电可以送上门吗？",
+    "expectFaqId": "FAQ-DEL-02",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-DEL-03",
+    "text": "冰箱送来后能马上通电吗？",
+    "expectFaqId": "FAQ-DEL-03",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-DEL-04",
+    "text": "可以指定送货时间吗？",
+    "expectFaqId": "FAQ-DEL-04",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-DEL-05",
+    "text": "外包装需要保留多久？",
+    "expectFaqId": "FAQ-DEL-05",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-INST-01",
+    "text": "空调安装收费吗？",
+    "expectFaqId": "FAQ-INST-01",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-INST-02",
+    "text": "嵌入式洗碗机安装需要提前准备什么？",
+    "expectFaqId": "FAQ-INST-02",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-INST-03",
+    "text": "燃气热水器安装有什么要求？",
+    "expectFaqId": "FAQ-INST-03",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-INST-04",
+    "text": "洗衣机放在阳台要注意什么？",
+    "expectFaqId": "FAQ-INST-04",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-INST-05",
+    "text": "电视壁挂安装对墙体有要求吗？",
+    "expectFaqId": "FAQ-INST-05",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-INST-06",
+    "text": "可以自己安装吗？",
+    "expectFaqId": "FAQ-INST-06",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-USE-01",
+    "text": "空调开多少度比较合适？",
+    "expectFaqId": "FAQ-USE-01",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-USE-02",
+    "text": "洗衣机脱水时晃动很大正常吗？",
+    "expectFaqId": "FAQ-USE-02",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-USE-03",
+    "text": "洗碗机餐具怎么摆放洗得更干净？",
+    "expectFaqId": "FAQ-USE-03",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-USE-04",
+    "text": "冰箱温度调到多少合适？",
+    "expectFaqId": "FAQ-USE-04",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-USE-05",
+    "text": "电热水器一直插电费电吗？",
+    "expectFaqId": "FAQ-USE-05",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-USE-06",
+    "text": "电视怎么开启低蓝光护眼？",
+    "expectFaqId": "FAQ-USE-06",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-USE-07",
+    "text": "家电长时间不用需要断电吗？",
+    "expectFaqId": "FAQ-USE-07",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-USE-08",
+    "text": "使用中插座发热冒烟怎么办？",
+    "expectFaqId": "FAQ-USE-08",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-WAR-01",
+    "text": "保修期从什么时候开始算？",
+    "expectFaqId": "FAQ-WAR-01",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-WAR-02",
+    "text": "空调压缩机保修多久？",
+    "expectFaqId": "FAQ-WAR-02",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-WAR-03",
+    "text": "自行拆机影响保修吗？",
+    "expectFaqId": "FAQ-WAR-03",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-WAR-04",
+    "text": "保修期内上门收费吗？",
+    "expectFaqId": "FAQ-WAR-04",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-WAR-05",
+    "text": "保修凭证丢了怎么办？",
+    "expectFaqId": "FAQ-WAR-05",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-WAR-06",
+    "text": "延保服务值得买吗？",
+    "expectFaqId": "FAQ-WAR-06",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-RET-01",
+    "text": "家电支持七天无理由退货吗？",
+    "expectFaqId": "FAQ-RET-01",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-RET-02",
+    "text": "拆了包装还能退吗？",
+    "expectFaqId": "FAQ-RET-02",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-RET-03",
+    "text": "退货运费谁承担？",
+    "expectFaqId": "FAQ-RET-03",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-RET-04",
+    "text": "收到的商品外观有损伤怎么办？",
+    "expectFaqId": "FAQ-RET-04",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-RET-05",
+    "text": "以旧换新怎么操作？",
+    "expectFaqId": "FAQ-RET-05",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-REP-01",
+    "text": "冰箱不制冷了怎么办？",
+    "expectFaqId": "FAQ-REP-01",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-REP-02",
+    "text": "洗衣机不脱水是什么原因？",
+    "expectFaqId": "FAQ-REP-02",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-REP-03",
+    "text": "机器通电后漏电麻手怎么办？",
+    "expectFaqId": "FAQ-REP-03",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-REP-04",
+    "text": "燃气热水器闻到燃气味怎么办？",
+    "expectFaqId": "FAQ-REP-04",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-REP-05",
+    "text": "电视冒烟或有烧焦味怎么办？",
+    "expectFaqId": "FAQ-REP-05",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-REP-06",
+    "text": "空调开机有烧焦异味正常吗？",
+    "expectFaqId": "FAQ-REP-06",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-REP-07",
+    "text": "洗碗机不进水怎么排查？",
+    "expectFaqId": "FAQ-REP-07",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-REP-08",
+    "text": "维修大概多久能上门？",
+    "expectFaqId": "FAQ-REP-08",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-CARE-01",
+    "text": "空调滤网多久清洗一次？",
+    "expectFaqId": "FAQ-CARE-01",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-CARE-02",
+    "text": "洗衣机筒自洁怎么用？",
+    "expectFaqId": "FAQ-CARE-02",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-CARE-03",
+    "text": "冰箱多久断电清理一次？",
+    "expectFaqId": "FAQ-CARE-03",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-CARE-04",
+    "text": "洗碗机需要加洗碗盐吗？",
+    "expectFaqId": "FAQ-CARE-04",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-CARE-05",
+    "text": "热水器镁棒多久换一次？",
+    "expectFaqId": "FAQ-CARE-05",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-CMPL-01",
+    "text": "送货延迟了怎么投诉？",
+    "expectFaqId": "FAQ-CMPL-01",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-CMPL-02",
+    "text": "安装人员乱收费怎么反映？",
+    "expectFaqId": "FAQ-CMPL-02",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-CMPL-03",
+    "text": "投诉后多久有回复？",
+    "expectFaqId": "FAQ-CMPL-03",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-FAQ-REP-09",
+    "text": "空调不制冷怎么排查",
+    "expectFaqId": "FAQ-REP-09",
+    "difficulty": "原题召回"
+  },
+  {
+    "id": "KB-V01",
+    "text": "空调制冷效果不好咋办",
+    "expectFaqId": "FAQ-REP-09",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V02",
+    "text": "冰箱冷藏室不凉了",
+    "expectFaqId": "FAQ-REP-01",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V03",
+    "text": "洗完的衣服脱不干水",
+    "expectFaqId": "FAQ-REP-02",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V04",
+    "text": "燃气热水器有股怪味儿",
+    "expectFaqId": "FAQ-REP-04",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V05",
+    "text": "电视屏幕花了怎么处理",
+    "expectFaqId": null,
+    "difficulty": "同义/口语",
+    "note": "知识库暂无花屏条目，未命中为正确行为"
+  },
+  {
+    "id": "KB-V06",
+    "text": "洗碗机不出水了什么情况",
+    "expectFaqId": "FAQ-REP-07",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V07",
+    "text": "多久洗一次空调滤网比较好",
+    "expectFaqId": "FAQ-CARE-01",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V08",
+    "text": "洗衣机筒自洁功能怎么用呀",
+    "expectFaqId": "FAQ-CARE-02",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V09",
+    "text": "冰箱多长时间断电清理一次合适",
+    "expectFaqId": "FAQ-CARE-03",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V10",
+    "text": "洗碗机要不要放洗碗盐啊",
+    "expectFaqId": "FAQ-CARE-04",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V11",
+    "text": "热水器镁棒多长时间换",
+    "expectFaqId": "FAQ-CARE-05",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V12",
+    "text": "保修期是从哪天开始算的",
+    "expectFaqId": "FAQ-WAR-01",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V13",
+    "text": "空调压缩机保修几年啊",
+    "expectFaqId": "FAQ-WAR-02",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V14",
+    "text": "我自己拆机了还能保修吗",
+    "expectFaqId": "FAQ-WAR-03",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V15",
+    "text": "保修期内上门要钱吗",
+    "expectFaqId": "FAQ-WAR-04",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V16",
+    "text": "七天内不满意能退货不",
+    "expectFaqId": "FAQ-RET-01",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V17",
+    "text": "拆了包装箱还能退吗",
+    "expectFaqId": "FAQ-RET-02",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V18",
+    "text": "退货的运费谁来出",
+    "expectFaqId": "FAQ-RET-03",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V19",
+    "text": "旧家电抵扣怎么弄",
+    "expectFaqId": "FAQ-RET-05",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V20",
+    "text": "家里海鲜比较多，买冰箱重点看什么",
+    "expectFaqId": "FAQ-BUY-01",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V21",
+    "text": "8000块钱买冰箱洗衣机够不够",
+    "expectFaqId": "FAQ-BUY-02",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V22",
+    "text": "滚筒和波轮选哪个比较好",
+    "expectFaqId": "FAQ-BUY-03",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V23",
+    "text": "卧室空调买几匹的合适",
+    "expectFaqId": "FAQ-BUY-04",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V24",
+    "text": "三口人洗碗机买几套的",
+    "expectFaqId": "FAQ-BUY-05",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V25",
+    "text": "下单之后多长时间能送到啊",
+    "expectFaqId": "FAQ-DEL-01",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V26",
+    "text": "空调安装要不要额外花钱",
+    "expectFaqId": "FAQ-INST-01",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V27",
+    "text": "空调开多少度比较省电又舒服",
+    "expectFaqId": "FAQ-USE-01",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V28",
+    "text": "客服电话一直没人接听怎么投诉",
+    "expectFaqId": "FAQ-CMPL-03",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V29",
+    "text": "安装师傅多收钱了去哪反映",
+    "expectFaqId": "FAQ-CMPL-02",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-V30",
+    "text": "维修师傅一般多久能上门",
+    "expectFaqId": "FAQ-REP-08",
+    "difficulty": "同义/口语"
+  },
+  {
+    "id": "KB-M01",
+    "text": "你们公司在哪个城市办公",
+    "expectFaqId": null,
+    "difficulty": "未命中"
+  },
+  {
+    "id": "KB-M02",
+    "text": "今天股票行情怎么样",
+    "expectFaqId": null,
+    "difficulty": "未命中"
+  },
+  {
+    "id": "KB-M03",
+    "text": "帮我写一首诗",
+    "expectFaqId": null,
+    "difficulty": "未命中"
+  }
+]

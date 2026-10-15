@@ -1,0 +1,5244 @@
+[
+  {
+    "id": "RF-01",
+    "name": "青澜 轻鲜系列 单门冰箱 RF003",
+    "brand": "青澜（模拟品牌）",
+    "category": "冰箱",
+    "price": 1300,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 42,
+      "max": 44
+    },
+    "dimensionsMm": {
+      "width": 520,
+      "depth": 600,
+      "height": 1500
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.2,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "单门",
+      "入门"
+    ],
+    "sellingPoints": [
+      "风冷无霜，免除手动除霜",
+      "变频压缩机，控温更均匀",
+      "入门之选，满足日常冷藏冷冻"
+    ],
+    "limitations": [
+      "两侧需预留散热空间",
+      "容量有限，适合一人食或辅助冷藏"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 180,
+    "freezerCapacityL": 50,
+    "deepFreeze": false
+  },
+  {
+    "id": "RF-02",
+    "name": "岚汐 轻鲜系列 单门冰箱 RF010",
+    "brand": "岚汐（模拟品牌）",
+    "category": "冰箱",
+    "price": 1500,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 43,
+      "max": 44
+    },
+    "dimensionsMm": {
+      "width": 520,
+      "depth": 600,
+      "height": 1500
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.9,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "单门",
+      "入门"
+    ],
+    "sellingPoints": [
+      "分区储存，食材不易串味",
+      "金属匀冷内胆，保鲜更持久",
+      "入门之选，满足日常冷藏冷冻"
+    ],
+    "limitations": [
+      "冷藏层较深，取后排食材需挪动",
+      "容量有限，适合一人食或辅助冷藏"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 195,
+    "freezerCapacityL": 58,
+    "deepFreeze": false
+  },
+  {
+    "id": "RF-03",
+    "name": "海屿 轻鲜系列 单门冰箱 RF017",
+    "brand": "海屿（模拟品牌）",
+    "category": "冰箱",
+    "price": 1700,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 42,
+      "max": 44
+    },
+    "dimensionsMm": {
+      "width": 530,
+      "depth": 610,
+      "height": 1515
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.8,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "单门",
+      "入门"
+    ],
+    "sellingPoints": [
+      "大容量设计，满足一周采购",
+      "低噪运行，夜间安静不扰眠",
+      "入门之选，满足日常冷藏冷冻"
+    ],
+    "limitations": [
+      "门体较重，搬运安装需两人协作",
+      "容量有限，适合一人食或辅助冷藏"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 210,
+    "freezerCapacityL": 66,
+    "deepFreeze": false
+  },
+  {
+    "id": "RF-04",
+    "name": "听澜 轻鲜系列 单门冰箱 RF024",
+    "brand": "听澜（模拟品牌）",
+    "category": "冰箱",
+    "price": 1900,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 43,
+      "max": 44
+    },
+    "dimensionsMm": {
+      "width": 530,
+      "depth": 610,
+      "height": 1515
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.7,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "单门",
+      "入门"
+    ],
+    "sellingPoints": [
+      "风冷无霜，免除手动除霜",
+      "变频压缩机，控温更均匀",
+      "入门之选，满足日常冷藏冷冻"
+    ],
+    "limitations": [
+      "冷冻抽屉层数多，大件存放受限",
+      "容量有限，适合一人食或辅助冷藏"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 225,
+    "freezerCapacityL": 74,
+    "deepFreeze": false
+  },
+  {
+    "id": "RF-05",
+    "name": "屿光 鲜屿系列 双门冰箱 RF034",
+    "brand": "屿光（模拟品牌）",
+    "category": "冰箱",
+    "price": 2700,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 41,
+      "max": 45
+    },
+    "dimensionsMm": {
+      "width": 610,
+      "depth": 650,
+      "height": 1600
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.6,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "双门",
+      "中端"
+    ],
+    "sellingPoints": [
+      "分区储存，食材不易串味",
+      "金属匀冷内胆，保鲜更持久",
+      "容量与占地更平衡"
+    ],
+    "limitations": [
+      "变频启动瞬间有轻微声响",
+      "定频运行能耗略高"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 280,
+    "freezerCapacityL": 80,
+    "deepFreeze": false
+  },
+  {
+    "id": "RF-06",
+    "name": "青澜 鲜屿系列 双门冰箱 RF041",
+    "brand": "青澜（模拟品牌）",
+    "category": "冰箱",
+    "price": 2900,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 42,
+      "max": 45
+    },
+    "dimensionsMm": {
+      "width": 610,
+      "depth": 650,
+      "height": 1600
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.5,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "双门",
+      "中端"
+    ],
+    "sellingPoints": [
+      "大容量设计，满足一周采购",
+      "低噪运行，夜间安静不扰眠",
+      "容量与占地更平衡"
+    ],
+    "limitations": [
+      "容量与占地需平衡，小厨房注意宽度",
+      "定频运行能耗略高"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 295,
+    "freezerCapacityL": 88,
+    "deepFreeze": false
+  },
+  {
+    "id": "RF-07",
+    "name": "岚汐 鲜屿系列 双门冰箱 RF048",
+    "brand": "岚汐（模拟品牌）",
+    "category": "冰箱",
+    "price": 3200,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 41,
+      "max": 45
+    },
+    "dimensionsMm": {
+      "width": 620,
+      "depth": 660,
+      "height": 1615
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.4,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "双门",
+      "中端"
+    ],
+    "sellingPoints": [
+      "风冷无霜，免除手动除霜",
+      "变频压缩机，控温更均匀",
+      "容量与占地更平衡"
+    ],
+    "limitations": [
+      "两侧需预留散热空间",
+      "定频运行能耗略高"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 310,
+    "freezerCapacityL": 96,
+    "deepFreeze": false
+  },
+  {
+    "id": "RF-08",
+    "name": "海屿 鲜屿系列 双门冰箱 RF055",
+    "brand": "海屿（模拟品牌）",
+    "category": "冰箱",
+    "price": 3500,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 42,
+      "max": 45
+    },
+    "dimensionsMm": {
+      "width": 620,
+      "depth": 660,
+      "height": 1615
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.3,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "双门",
+      "中端"
+    ],
+    "sellingPoints": [
+      "分区储存，食材不易串味",
+      "金属匀冷内胆，保鲜更持久",
+      "容量与占地更平衡"
+    ],
+    "limitations": [
+      "冷藏层较深，取后排食材需挪动",
+      "定频运行能耗略高"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 325,
+    "freezerCapacityL": 104,
+    "deepFreeze": false
+  },
+  {
+    "id": "RF-09",
+    "name": "听澜 澄鲜系列 三门冰箱 RF065",
+    "brand": "听澜（模拟品牌）",
+    "category": "冰箱",
+    "price": 4300,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 40,
+      "max": 46
+    },
+    "dimensionsMm": {
+      "width": 700,
+      "depth": 680,
+      "height": 1720
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.2,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "三门",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "大容量设计，满足一周采购",
+      "低噪运行，夜间安静不扰眠",
+      "风冷变频，保鲜与静音兼顾"
+    ],
+    "limitations": [
+      "门体较重，搬运安装需两人协作",
+      "门体与厨柜配色需提前确认"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 380,
+    "freezerCapacityL": 110,
+    "deepFreeze": false
+  },
+  {
+    "id": "RF-10",
+    "name": "屿光 澄鲜系列 三门冰箱 RF072",
+    "brand": "屿光（模拟品牌）",
+    "category": "冰箱",
+    "price": 4600,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 41,
+      "max": 46
+    },
+    "dimensionsMm": {
+      "width": 700,
+      "depth": 680,
+      "height": 1720
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.9,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "三门",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "风冷无霜，免除手动除霜",
+      "变频压缩机，控温更均匀",
+      "风冷变频，保鲜与静音兼顾"
+    ],
+    "limitations": [
+      "冷冻抽屉层数多，大件存放受限",
+      "门体与厨柜配色需提前确认"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 395,
+    "freezerCapacityL": 118,
+    "deepFreeze": false
+  },
+  {
+    "id": "RF-11",
+    "name": "青澜 澄鲜系列 三门冰箱 RF079",
+    "brand": "青澜（模拟品牌）",
+    "category": "冰箱",
+    "price": 4800,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 40,
+      "max": 46
+    },
+    "dimensionsMm": {
+      "width": 710,
+      "depth": 690,
+      "height": 1735
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.8,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "三门",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "分区储存，食材不易串味",
+      "金属匀冷内胆，保鲜更持久",
+      "风冷变频，保鲜与静音兼顾"
+    ],
+    "limitations": [
+      "变频启动瞬间有轻微声响",
+      "门体与厨柜配色需提前确认"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 410,
+    "freezerCapacityL": 126,
+    "deepFreeze": true
+  },
+  {
+    "id": "RF-12",
+    "name": "岚汐 澄鲜系列 三门冰箱 RF086",
+    "brand": "岚汐（模拟品牌）",
+    "category": "冰箱",
+    "price": 5100,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 41,
+      "max": 46
+    },
+    "dimensionsMm": {
+      "width": 710,
+      "depth": 690,
+      "height": 1735
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.7,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "三门",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "大容量设计，满足一周采购",
+      "低噪运行，夜间安静不扰眠",
+      "风冷变频，保鲜与静音兼顾"
+    ],
+    "limitations": [
+      "容量与占地需平衡，小厨房注意宽度",
+      "门体与厨柜配色需提前确认"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 425,
+    "freezerCapacityL": 134,
+    "deepFreeze": true
+  },
+  {
+    "id": "RF-13",
+    "name": "海屿 冰屿系列 对开门冰箱 RF096",
+    "brand": "海屿（模拟品牌）",
+    "category": "冰箱",
+    "price": 6600,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 39,
+      "max": 47
+    },
+    "dimensionsMm": {
+      "width": 830,
+      "depth": 700,
+      "height": 1780
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.6,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "对开门",
+      "高端",
+      "节能"
+    ],
+    "sellingPoints": [
+      "风冷无霜，免除手动除霜",
+      "变频压缩机，控温更均匀",
+      "大容量多门，食材分类从容"
+    ],
+    "limitations": [
+      "两侧需预留散热空间",
+      "宽幅较大，小厨房注意预留位"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 480,
+    "freezerCapacityL": 140,
+    "deepFreeze": true
+  },
+  {
+    "id": "RF-14",
+    "name": "听澜 冰屿系列 对开门冰箱 RF103",
+    "brand": "听澜（模拟品牌）",
+    "category": "冰箱",
+    "price": 7100,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 40,
+      "max": 47
+    },
+    "dimensionsMm": {
+      "width": 830,
+      "depth": 700,
+      "height": 1780
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.5,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "对开门",
+      "高端",
+      "节能"
+    ],
+    "sellingPoints": [
+      "分区储存，食材不易串味",
+      "金属匀冷内胆，保鲜更持久",
+      "大容量多门，食材分类从容"
+    ],
+    "limitations": [
+      "冷藏层较深，取后排食材需挪动",
+      "宽幅较大，小厨房注意预留位"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 495,
+    "freezerCapacityL": 148,
+    "deepFreeze": true
+  },
+  {
+    "id": "RF-15",
+    "name": "屿光 冰屿系列 对开门冰箱 RF110",
+    "brand": "屿光（模拟品牌）",
+    "category": "冰箱",
+    "price": 7600,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 39,
+      "max": 47
+    },
+    "dimensionsMm": {
+      "width": 840,
+      "depth": 710,
+      "height": 1795
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.4,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "对开门",
+      "高端",
+      "节能"
+    ],
+    "sellingPoints": [
+      "大容量设计，满足一周采购",
+      "低噪运行，夜间安静不扰眠",
+      "大容量多门，食材分类从容"
+    ],
+    "limitations": [
+      "门体较重，搬运安装需两人协作",
+      "宽幅较大，小厨房注意预留位"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 510,
+    "freezerCapacityL": 156,
+    "deepFreeze": true
+  },
+  {
+    "id": "RF-16",
+    "name": "青澜 冰屿系列 对开门冰箱 RF117",
+    "brand": "青澜（模拟品牌）",
+    "category": "冰箱",
+    "price": 8100,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 40,
+      "max": 47
+    },
+    "dimensionsMm": {
+      "width": 840,
+      "depth": 710,
+      "height": 1795
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.3,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "对开门",
+      "高端",
+      "节能"
+    ],
+    "sellingPoints": [
+      "风冷无霜，免除手动除霜",
+      "变频压缩机，控温更均匀",
+      "大容量多门，食材分类从容"
+    ],
+    "limitations": [
+      "冷冻抽屉层数多，大件存放受限",
+      "宽幅较大，小厨房注意预留位"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 525,
+    "freezerCapacityL": 164,
+    "deepFreeze": true
+  },
+  {
+    "id": "RF-17",
+    "name": "岚汐 御鲜系列 十字四门冰箱 RF127",
+    "brand": "岚汐（模拟品牌）",
+    "category": "冰箱",
+    "price": 10200,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 38,
+      "max": 48
+    },
+    "dimensionsMm": {
+      "width": 910,
+      "depth": 730,
+      "height": 1900
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.2,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "十字四门",
+      "旗舰",
+      "静音",
+      "节能"
+    ],
+    "sellingPoints": [
+      "分区储存，食材不易串味",
+      "金属匀冷内胆，保鲜更持久",
+      "旗舰配置，深冷速冻与精细分区"
+    ],
+    "limitations": [
+      "变频启动瞬间有轻微声响",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 580,
+    "freezerCapacityL": 170,
+    "deepFreeze": true
+  },
+  {
+    "id": "RF-18",
+    "name": "海屿 御鲜系列 十字四门冰箱 RF134",
+    "brand": "海屿（模拟品牌）",
+    "category": "冰箱",
+    "price": 11300,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 39,
+      "max": 48
+    },
+    "dimensionsMm": {
+      "width": 910,
+      "depth": 730,
+      "height": 1900
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.9,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "十字四门",
+      "旗舰",
+      "节能"
+    ],
+    "sellingPoints": [
+      "大容量设计，满足一周采购",
+      "低噪运行，夜间安静不扰眠",
+      "旗舰配置，深冷速冻与精细分区"
+    ],
+    "limitations": [
+      "容量与占地需平衡，小厨房注意宽度",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 595,
+    "freezerCapacityL": 178,
+    "deepFreeze": true
+  },
+  {
+    "id": "RF-19",
+    "name": "听澜 御鲜系列 十字四门冰箱 RF141",
+    "brand": "听澜（模拟品牌）",
+    "category": "冰箱",
+    "price": 12400,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 38,
+      "max": 48
+    },
+    "dimensionsMm": {
+      "width": 920,
+      "depth": 740,
+      "height": 1915
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.8,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "十字四门",
+      "旗舰",
+      "静音",
+      "节能"
+    ],
+    "sellingPoints": [
+      "风冷无霜，免除手动除霜",
+      "变频压缩机，控温更均匀",
+      "旗舰配置，深冷速冻与精细分区"
+    ],
+    "limitations": [
+      "两侧需预留散热空间",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 610,
+    "freezerCapacityL": 186,
+    "deepFreeze": true
+  },
+  {
+    "id": "RF-20",
+    "name": "屿光 御鲜系列 十字四门冰箱 RF148",
+    "brand": "屿光（模拟品牌）",
+    "category": "冰箱",
+    "price": 13500,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 39,
+      "max": 48
+    },
+    "dimensionsMm": {
+      "width": 920,
+      "depth": 740,
+      "height": 1915
+    },
+    "familySizeFit": [
+      4,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.7,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "十字四门",
+      "旗舰",
+      "节能"
+    ],
+    "sellingPoints": [
+      "分区储存，食材不易串味",
+      "金属匀冷内胆，保鲜更持久",
+      "旗舰配置，深冷速冻与精细分区"
+    ],
+    "limitations": [
+      "冷藏层较深，取后排食材需挪动",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "capacityL": 625,
+    "freezerCapacityL": 194,
+    "deepFreeze": true
+  },
+  {
+    "id": "WM-01",
+    "name": "青澜 简洗系列 波轮洗衣机 WM003",
+    "brand": "青澜（模拟品牌）",
+    "category": "洗衣机",
+    "price": 1000,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 56,
+      "max": 74
+    },
+    "dimensionsMm": {
+      "width": 550,
+      "depth": 580,
+      "height": 960
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.6,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "波轮",
+      "入门"
+    ],
+    "sellingPoints": [
+      "桶自清洁，减少二次污染",
+      "高温除菌洗，贴身衣物更放心",
+      "结构简单，皮实耐用"
+    ],
+    "limitations": [
+      "门封圈需定期清洁",
+      "容量较小，被褥类需分批"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 5.5,
+    "spinSpeedRpm": 800
+  },
+  {
+    "id": "WM-02",
+    "name": "岚汐 简洗系列 波轮洗衣机 WM010",
+    "brand": "岚汐（模拟品牌）",
+    "category": "洗衣机",
+    "price": 1200,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 57,
+      "max": 74
+    },
+    "dimensionsMm": {
+      "width": 550,
+      "depth": 580,
+      "height": 960
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.5,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "波轮",
+      "入门"
+    ],
+    "sellingPoints": [
+      "多种洗涤程序，覆盖日常衣物",
+      "中途添衣，灵活方便",
+      "结构简单，皮实耐用"
+    ],
+    "limitations": [
+      "洗涤时间较波轮偏长",
+      "容量较小，被褥类需分批"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 6,
+    "spinSpeedRpm": 850
+  },
+  {
+    "id": "WM-03",
+    "name": "海屿 简洗系列 波轮洗衣机 WM017",
+    "brand": "海屿（模拟品牌）",
+    "category": "洗衣机",
+    "price": 1400,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 56,
+      "max": 74
+    },
+    "dimensionsMm": {
+      "width": 560,
+      "depth": 590,
+      "height": 975
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.4,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "波轮",
+      "入门"
+    ],
+    "sellingPoints": [
+      "变频电机，运行平稳低噪",
+      "上排水设计，适配多种户型",
+      "结构简单，皮实耐用"
+    ],
+    "limitations": [
+      "烘干容量小于洗涤容量",
+      "容量较小，被褥类需分批"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 6.5,
+    "spinSpeedRpm": 900
+  },
+  {
+    "id": "WM-04",
+    "name": "听澜 简洗系列 波轮洗衣机 WM024",
+    "brand": "听澜（模拟品牌）",
+    "category": "洗衣机",
+    "price": 1600,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 57,
+      "max": 74
+    },
+    "dimensionsMm": {
+      "width": 560,
+      "depth": 590,
+      "height": 975
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.3,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "波轮",
+      "入门"
+    ],
+    "sellingPoints": [
+      "桶自清洁，减少二次污染",
+      "高温除菌洗，贴身衣物更放心",
+      "结构简单，皮实耐用"
+    ],
+    "limitations": [
+      "安装需预留下水与插座位置",
+      "容量较小，被褥类需分批"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 7,
+    "spinSpeedRpm": 950
+  },
+  {
+    "id": "WM-05",
+    "name": "屿光 净屿系列 滚筒洗衣机 WM034",
+    "brand": "屿光（模拟品牌）",
+    "category": "洗衣机",
+    "price": 2300,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 55,
+      "max": 73
+    },
+    "dimensionsMm": {
+      "width": 595,
+      "depth": 560,
+      "height": 850
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.2,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "滚筒",
+      "中端"
+    ],
+    "sellingPoints": [
+      "多种洗涤程序，覆盖日常衣物",
+      "中途添衣，灵活方便",
+      "洗净比提升，衣物更干净"
+    ],
+    "limitations": [
+      "脱水高速运转时有感噪音",
+      "无烘干功能"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 7.1,
+    "spinSpeedRpm": 950
+  },
+  {
+    "id": "WM-06",
+    "name": "青澜 净屿系列 滚筒洗衣机 WM041",
+    "brand": "青澜（模拟品牌）",
+    "category": "洗衣机",
+    "price": 2500,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 56,
+      "max": 73
+    },
+    "dimensionsMm": {
+      "width": 595,
+      "depth": 560,
+      "height": 850
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.9,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "滚筒",
+      "中端"
+    ],
+    "sellingPoints": [
+      "变频电机，运行平稳低噪",
+      "上排水设计，适配多种户型",
+      "洗净比提升，衣物更干净"
+    ],
+    "limitations": [
+      "滚筒取衣需弯腰",
+      "无烘干功能"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 7.6,
+    "spinSpeedRpm": 1000
+  },
+  {
+    "id": "WM-07",
+    "name": "岚汐 净屿系列 滚筒洗衣机 WM048",
+    "brand": "岚汐（模拟品牌）",
+    "category": "洗衣机",
+    "price": 2700,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 55,
+      "max": 73
+    },
+    "dimensionsMm": {
+      "width": 605,
+      "depth": 570,
+      "height": 865
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.8,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "滚筒",
+      "中端"
+    ],
+    "sellingPoints": [
+      "桶自清洁，减少二次污染",
+      "高温除菌洗，贴身衣物更放心",
+      "洗净比提升，衣物更干净"
+    ],
+    "limitations": [
+      "门封圈需定期清洁",
+      "无烘干功能"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 8.1,
+    "spinSpeedRpm": 1050
+  },
+  {
+    "id": "WM-08",
+    "name": "海屿 净屿系列 滚筒洗衣机 WM055",
+    "brand": "海屿（模拟品牌）",
+    "category": "洗衣机",
+    "price": 3000,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 56,
+      "max": 73
+    },
+    "dimensionsMm": {
+      "width": 605,
+      "depth": 570,
+      "height": 865
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.7,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "滚筒",
+      "中端"
+    ],
+    "sellingPoints": [
+      "多种洗涤程序，覆盖日常衣物",
+      "中途添衣，灵活方便",
+      "洗净比提升，衣物更干净"
+    ],
+    "limitations": [
+      "洗涤时间较波轮偏长",
+      "无烘干功能"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 8.6,
+    "spinSpeedRpm": 1100
+  },
+  {
+    "id": "WM-09",
+    "name": "听澜 澄洗系列 变频滚筒洗衣机 WM065",
+    "brand": "听澜（模拟品牌）",
+    "category": "洗衣机",
+    "price": 3900,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 54,
+      "max": 72
+    },
+    "dimensionsMm": {
+      "width": 595,
+      "depth": 575,
+      "height": 850
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.6,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "变频滚筒",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "变频电机，运行平稳低噪",
+      "上排水设计，适配多种户型",
+      "变频节能，噪音更低"
+    ],
+    "limitations": [
+      "烘干容量小于洗涤容量",
+      "结构相对简单，功能较少"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 8.7,
+    "spinSpeedRpm": 1100
+  },
+  {
+    "id": "WM-10",
+    "name": "屿光 澄洗系列 变频滚筒洗衣机 WM072",
+    "brand": "屿光（模拟品牌）",
+    "category": "洗衣机",
+    "price": 4100,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 55,
+      "max": 72
+    },
+    "dimensionsMm": {
+      "width": 595,
+      "depth": 575,
+      "height": 850
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.5,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "变频滚筒",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "桶自清洁，减少二次污染",
+      "高温除菌洗，贴身衣物更放心",
+      "变频节能，噪音更低"
+    ],
+    "limitations": [
+      "安装需预留下水与插座位置",
+      "结构相对简单，功能较少"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 9.2,
+    "spinSpeedRpm": 1150
+  },
+  {
+    "id": "WM-11",
+    "name": "青澜 澄洗系列 变频滚筒洗衣机 WM079",
+    "brand": "青澜（模拟品牌）",
+    "category": "洗衣机",
+    "price": 4400,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 54,
+      "max": 72
+    },
+    "dimensionsMm": {
+      "width": 605,
+      "depth": 585,
+      "height": 865
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.4,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "变频滚筒",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "多种洗涤程序，覆盖日常衣物",
+      "中途添衣，灵活方便",
+      "变频节能，噪音更低"
+    ],
+    "limitations": [
+      "脱水高速运转时有感噪音",
+      "结构相对简单，功能较少"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 9.7,
+    "spinSpeedRpm": 1200
+  },
+  {
+    "id": "WM-12",
+    "name": "岚汐 澄洗系列 变频滚筒洗衣机 WM086",
+    "brand": "岚汐（模拟品牌）",
+    "category": "洗衣机",
+    "price": 4700,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 55,
+      "max": 72
+    },
+    "dimensionsMm": {
+      "width": 605,
+      "depth": 585,
+      "height": 865
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.3,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "变频滚筒",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "变频电机，运行平稳低噪",
+      "上排水设计，适配多种户型",
+      "变频节能，噪音更低"
+    ],
+    "limitations": [
+      "滚筒取衣需弯腰",
+      "结构相对简单，功能较少"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 10.2,
+    "spinSpeedRpm": 1250
+  },
+  {
+    "id": "WM-13",
+    "name": "海屿 静洗系列 洗烘一体洗衣机 WM096",
+    "brand": "海屿（模拟品牌）",
+    "category": "洗衣机",
+    "price": 5600,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 53,
+      "max": 71
+    },
+    "dimensionsMm": {
+      "width": 600,
+      "depth": 590,
+      "height": 855
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.2,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "洗烘一体",
+      "高端",
+      "节能"
+    ],
+    "sellingPoints": [
+      "桶自清洁，减少二次污染",
+      "高温除菌洗，贴身衣物更放心",
+      "洗烘一体，阴雨天无忧"
+    ],
+    "limitations": [
+      "门封圈需定期清洁",
+      "烘干能耗高于自然晾晒"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 10.3,
+    "spinSpeedRpm": 1250
+  },
+  {
+    "id": "WM-14",
+    "name": "听澜 静洗系列 洗烘一体洗衣机 WM103",
+    "brand": "听澜（模拟品牌）",
+    "category": "洗衣机",
+    "price": 6100,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 54,
+      "max": 71
+    },
+    "dimensionsMm": {
+      "width": 600,
+      "depth": 590,
+      "height": 855
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.9,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "洗烘一体",
+      "高端",
+      "节能"
+    ],
+    "sellingPoints": [
+      "多种洗涤程序，覆盖日常衣物",
+      "中途添衣，灵活方便",
+      "洗烘一体，阴雨天无忧"
+    ],
+    "limitations": [
+      "洗涤时间较波轮偏长",
+      "烘干能耗高于自然晾晒"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 10.8,
+    "spinSpeedRpm": 1300
+  },
+  {
+    "id": "WM-15",
+    "name": "屿光 静洗系列 洗烘一体洗衣机 WM110",
+    "brand": "屿光（模拟品牌）",
+    "category": "洗衣机",
+    "price": 6600,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 53,
+      "max": 71
+    },
+    "dimensionsMm": {
+      "width": 610,
+      "depth": 600,
+      "height": 870
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.8,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "洗烘一体",
+      "高端",
+      "节能"
+    ],
+    "sellingPoints": [
+      "变频电机，运行平稳低噪",
+      "上排水设计，适配多种户型",
+      "洗烘一体，阴雨天无忧"
+    ],
+    "limitations": [
+      "烘干容量小于洗涤容量",
+      "烘干能耗高于自然晾晒"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 11.3,
+    "spinSpeedRpm": 1350
+  },
+  {
+    "id": "WM-16",
+    "name": "青澜 静洗系列 洗烘一体洗衣机 WM117",
+    "brand": "青澜（模拟品牌）",
+    "category": "洗衣机",
+    "price": 7100,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 54,
+      "max": 71
+    },
+    "dimensionsMm": {
+      "width": 610,
+      "depth": 600,
+      "height": 870
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.7,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "洗烘一体",
+      "高端",
+      "节能"
+    ],
+    "sellingPoints": [
+      "桶自清洁，减少二次污染",
+      "高温除菌洗，贴身衣物更放心",
+      "洗烘一体，阴雨天无忧"
+    ],
+    "limitations": [
+      "安装需预留下水与插座位置",
+      "烘干能耗高于自然晾晒"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 11.8,
+    "spinSpeedRpm": 1400
+  },
+  {
+    "id": "WM-17",
+    "name": "岚汐 御洗系列 分区洗烘洗衣机 WM127",
+    "brand": "岚汐（模拟品牌）",
+    "category": "洗衣机",
+    "price": 9100,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 52,
+      "max": 70
+    },
+    "dimensionsMm": {
+      "width": 600,
+      "depth": 600,
+      "height": 870
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.6,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "分区洗烘",
+      "旗舰",
+      "节能"
+    ],
+    "sellingPoints": [
+      "多种洗涤程序，覆盖日常衣物",
+      "中途添衣，灵活方便",
+      "上下分区，内外衣分开洗"
+    ],
+    "limitations": [
+      "脱水高速运转时有感噪音",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 11.9,
+    "spinSpeedRpm": 1400
+  },
+  {
+    "id": "WM-18",
+    "name": "海屿 御洗系列 分区洗烘洗衣机 WM134",
+    "brand": "海屿（模拟品牌）",
+    "category": "洗衣机",
+    "price": 10000,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 53,
+      "max": 70
+    },
+    "dimensionsMm": {
+      "width": 600,
+      "depth": 600,
+      "height": 870
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.5,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "分区洗烘",
+      "旗舰",
+      "节能"
+    ],
+    "sellingPoints": [
+      "变频电机，运行平稳低噪",
+      "上排水设计，适配多种户型",
+      "上下分区，内外衣分开洗"
+    ],
+    "limitations": [
+      "滚筒取衣需弯腰",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 12.4,
+    "spinSpeedRpm": 1450
+  },
+  {
+    "id": "WM-19",
+    "name": "听澜 御洗系列 分区洗烘洗衣机 WM141",
+    "brand": "听澜（模拟品牌）",
+    "category": "洗衣机",
+    "price": 10900,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 52,
+      "max": 70
+    },
+    "dimensionsMm": {
+      "width": 610,
+      "depth": 610,
+      "height": 885
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.4,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "分区洗烘",
+      "旗舰",
+      "节能"
+    ],
+    "sellingPoints": [
+      "桶自清洁，减少二次污染",
+      "高温除菌洗，贴身衣物更放心",
+      "上下分区，内外衣分开洗"
+    ],
+    "limitations": [
+      "门封圈需定期清洁",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 12.9,
+    "spinSpeedRpm": 1500
+  },
+  {
+    "id": "WM-20",
+    "name": "屿光 御洗系列 分区洗烘洗衣机 WM148",
+    "brand": "屿光（模拟品牌）",
+    "category": "洗衣机",
+    "price": 11800,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 53,
+      "max": 70
+    },
+    "dimensionsMm": {
+      "width": 610,
+      "depth": 610,
+      "height": 885
+    },
+    "familySizeFit": [
+      4,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.3,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "分区洗烘",
+      "旗舰",
+      "节能"
+    ],
+    "sellingPoints": [
+      "多种洗涤程序，覆盖日常衣物",
+      "中途添衣，灵活方便",
+      "上下分区，内外衣分开洗"
+    ],
+    "limitations": [
+      "洗涤时间较波轮偏长",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "washCapacityKg": 13.4,
+    "spinSpeedRpm": 1550
+  },
+  {
+    "id": "AC-01",
+    "name": "青澜 清风系列 壁挂空调 AC003",
+    "brand": "青澜（模拟品牌）",
+    "category": "空调",
+    "price": 1800,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 22,
+      "max": 52
+    },
+    "dimensionsMm": {
+      "width": 790,
+      "depth": 190,
+      "height": 275
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": [
+      10,
+      15
+    ],
+    "rating": 4.2,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "壁挂",
+      "入门",
+      "静音"
+    ],
+    "sellingPoints": [
+      "低风量运行更安静",
+      "易拆滤网，清洗方便",
+      "基础制冷制热，安装便捷"
+    ],
+    "limitations": [
+      "滤网需按季清洗",
+      "低温制热能力一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 1
+  },
+  {
+    "id": "AC-02",
+    "name": "岚汐 清风系列 壁挂空调 AC010",
+    "brand": "岚汐（模拟品牌）",
+    "category": "空调",
+    "price": 2000,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 23,
+      "max": 52
+    },
+    "dimensionsMm": {
+      "width": 790,
+      "depth": 190,
+      "height": 275
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": [
+      10,
+      15
+    ],
+    "rating": 4.9,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "壁挂",
+      "入门",
+      "静音"
+    ],
+    "sellingPoints": [
+      "智能温控，避免过冷过热",
+      "自清洁蒸发器，减少维护",
+      "基础制冷制热，安装便捷"
+    ],
+    "limitations": [
+      "运行时出风口附近风感明显",
+      "低温制热能力一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 1.25
+  },
+  {
+    "id": "AC-03",
+    "name": "海屿 清风系列 壁挂空调 AC017",
+    "brand": "海屿（模拟品牌）",
+    "category": "空调",
+    "price": 2200,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 21,
+      "max": 52
+    },
+    "dimensionsMm": {
+      "width": 800,
+      "depth": 200,
+      "height": 290
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": [
+      10,
+      15
+    ],
+    "rating": 4.8,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "壁挂",
+      "入门",
+      "静音"
+    ],
+    "sellingPoints": [
+      "快速制冷，出风均匀",
+      "宽电压启动，用电更安心",
+      "基础制冷制热，安装便捷"
+    ],
+    "limitations": [
+      "制冷时室内偏干",
+      "低温制热能力一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 1.5
+  },
+  {
+    "id": "AC-04",
+    "name": "听澜 清风系列 壁挂空调 AC024",
+    "brand": "听澜（模拟品牌）",
+    "category": "空调",
+    "price": 2400,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 22,
+      "max": 52
+    },
+    "dimensionsMm": {
+      "width": 800,
+      "depth": 200,
+      "height": 290
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": [
+      10,
+      15
+    ],
+    "rating": 4.7,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "壁挂",
+      "入门",
+      "静音"
+    ],
+    "sellingPoints": [
+      "低风量运行更安静",
+      "易拆滤网，清洗方便",
+      "基础制冷制热，安装便捷"
+    ],
+    "limitations": [
+      "外机安装位置需提前确认",
+      "低温制热能力一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 1.75
+  },
+  {
+    "id": "AC-05",
+    "name": "屿光 屿风系列 变频壁挂空调 AC034",
+    "brand": "屿光（模拟品牌）",
+    "category": "空调",
+    "price": 3000,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 23,
+      "max": 53
+    },
+    "dimensionsMm": {
+      "width": 820,
+      "depth": 195,
+      "height": 285
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": [
+      12,
+      18
+    ],
+    "rating": 4.6,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "变频壁挂",
+      "中端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "智能温控，避免过冷过热",
+      "自清洁蒸发器，减少维护",
+      "变频省电，温控更稳"
+    ],
+    "limitations": [
+      "低温制热效率下降",
+      "能效一般，长开电费略高"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 1.25
+  },
+  {
+    "id": "AC-06",
+    "name": "青澜 屿风系列 变频壁挂空调 AC041",
+    "brand": "青澜（模拟品牌）",
+    "category": "空调",
+    "price": 3300,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 24,
+      "max": 53
+    },
+    "dimensionsMm": {
+      "width": 820,
+      "depth": 195,
+      "height": 285
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": [
+      12,
+      18
+    ],
+    "rating": 4.5,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "变频壁挂",
+      "中端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "快速制冷，出风均匀",
+      "宽电压启动，用电更安心",
+      "变频省电，温控更稳"
+    ],
+    "limitations": [
+      "柜机占用一定地面空间",
+      "能效一般，长开电费略高"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 1.5
+  },
+  {
+    "id": "AC-07",
+    "name": "岚汐 屿风系列 变频壁挂空调 AC048",
+    "brand": "岚汐（模拟品牌）",
+    "category": "空调",
+    "price": 3500,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 22,
+      "max": 53
+    },
+    "dimensionsMm": {
+      "width": 830,
+      "depth": 205,
+      "height": 300
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": [
+      12,
+      18
+    ],
+    "rating": 4.4,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "变频壁挂",
+      "中端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "低风量运行更安静",
+      "易拆滤网，清洗方便",
+      "变频省电，温控更稳"
+    ],
+    "limitations": [
+      "滤网需按季清洗",
+      "能效一般，长开电费略高"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 1.75
+  },
+  {
+    "id": "AC-08",
+    "name": "海屿 屿风系列 变频壁挂空调 AC055",
+    "brand": "海屿（模拟品牌）",
+    "category": "空调",
+    "price": 3800,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 23,
+      "max": 53
+    },
+    "dimensionsMm": {
+      "width": 830,
+      "depth": 205,
+      "height": 300
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": [
+      12,
+      18
+    ],
+    "rating": 4.3,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "变频壁挂",
+      "中端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "智能温控，避免过冷过热",
+      "自清洁蒸发器，减少维护",
+      "变频省电，温控更稳"
+    ],
+    "limitations": [
+      "运行时出风口附近风感明显",
+      "能效一般，长开电费略高"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 2
+  },
+  {
+    "id": "AC-09",
+    "name": "听澜 澄风系列 新一级变频挂机 AC065",
+    "brand": "听澜（模拟品牌）",
+    "category": "空调",
+    "price": 4600,
+    "priceBand": "中高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 24,
+      "max": 54
+    },
+    "dimensionsMm": {
+      "width": 850,
+      "depth": 200,
+      "height": 295
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": [
+      14,
+      20
+    ],
+    "rating": 4.2,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "新一级变频挂机",
+      "中高端",
+      "静音",
+      "节能"
+    ],
+    "sellingPoints": [
+      "快速制冷，出风均匀",
+      "宽电压启动，用电更安心",
+      "新一级能效，长期能耗更低"
+    ],
+    "limitations": [
+      "制冷时室内偏干",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 1.5
+  },
+  {
+    "id": "AC-10",
+    "name": "屿光 澄风系列 新一级变频挂机 AC072",
+    "brand": "屿光（模拟品牌）",
+    "category": "空调",
+    "price": 4900,
+    "priceBand": "中高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 25,
+      "max": 54
+    },
+    "dimensionsMm": {
+      "width": 850,
+      "depth": 200,
+      "height": 295
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": [
+      14,
+      20
+    ],
+    "rating": 4.9,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "新一级变频挂机",
+      "中高端",
+      "静音",
+      "节能"
+    ],
+    "sellingPoints": [
+      "低风量运行更安静",
+      "易拆滤网，清洗方便",
+      "新一级能效，长期能耗更低"
+    ],
+    "limitations": [
+      "外机安装位置需提前确认",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 1.75
+  },
+  {
+    "id": "AC-11",
+    "name": "青澜 澄风系列 新一级变频挂机 AC079",
+    "brand": "青澜（模拟品牌）",
+    "category": "空调",
+    "price": 5200,
+    "priceBand": "中高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 23,
+      "max": 54
+    },
+    "dimensionsMm": {
+      "width": 860,
+      "depth": 210,
+      "height": 310
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": [
+      14,
+      20
+    ],
+    "rating": 4.8,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "新一级变频挂机",
+      "中高端",
+      "静音",
+      "节能"
+    ],
+    "sellingPoints": [
+      "智能温控，避免过冷过热",
+      "自清洁蒸发器，减少维护",
+      "新一级能效，长期能耗更低"
+    ],
+    "limitations": [
+      "低温制热效率下降",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 2
+  },
+  {
+    "id": "AC-12",
+    "name": "岚汐 澄风系列 新一级变频挂机 AC086",
+    "brand": "岚汐（模拟品牌）",
+    "category": "空调",
+    "price": 5600,
+    "priceBand": "中高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 24,
+      "max": 54
+    },
+    "dimensionsMm": {
+      "width": 860,
+      "depth": 210,
+      "height": 310
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": [
+      14,
+      20
+    ],
+    "rating": 4.7,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "新一级变频挂机",
+      "中高端",
+      "静音",
+      "节能"
+    ],
+    "sellingPoints": [
+      "快速制冷，出风均匀",
+      "宽电压启动，用电更安心",
+      "新一级能效，长期能耗更低"
+    ],
+    "limitations": [
+      "柜机占用一定地面空间",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 2.25
+  },
+  {
+    "id": "AC-13",
+    "name": "海屿 静宇系列 立柜空调 AC096",
+    "brand": "海屿（模拟品牌）",
+    "category": "空调",
+    "price": 6600,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 34,
+      "max": 58
+    },
+    "dimensionsMm": {
+      "width": 420,
+      "depth": 380,
+      "height": 1720
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": [
+      22,
+      32
+    ],
+    "rating": 4.6,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "立柜",
+      "高端",
+      "静音",
+      "节能"
+    ],
+    "sellingPoints": [
+      "低风量运行更安静",
+      "易拆滤网，清洗方便",
+      "大风量立柜，客厅快速降温"
+    ],
+    "limitations": [
+      "滤网需按季清洗",
+      "柜机占地约0.2㎡"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 2
+  },
+  {
+    "id": "AC-14",
+    "name": "听澜 静宇系列 立柜空调 AC103",
+    "brand": "听澜（模拟品牌）",
+    "category": "空调",
+    "price": 7100,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 35,
+      "max": 58
+    },
+    "dimensionsMm": {
+      "width": 420,
+      "depth": 380,
+      "height": 1720
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": [
+      22,
+      32
+    ],
+    "rating": 4.5,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "立柜",
+      "高端",
+      "静音",
+      "节能"
+    ],
+    "sellingPoints": [
+      "智能温控，避免过冷过热",
+      "自清洁蒸发器，减少维护",
+      "大风量立柜，客厅快速降温"
+    ],
+    "limitations": [
+      "运行时出风口附近风感明显",
+      "柜机占地约0.2㎡"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 2.25
+  },
+  {
+    "id": "AC-15",
+    "name": "屿光 静宇系列 立柜空调 AC110",
+    "brand": "屿光（模拟品牌）",
+    "category": "空调",
+    "price": 7600,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 34,
+      "max": 58
+    },
+    "dimensionsMm": {
+      "width": 430,
+      "depth": 390,
+      "height": 1735
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": [
+      22,
+      32
+    ],
+    "rating": 4.4,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "立柜",
+      "高端",
+      "静音",
+      "节能"
+    ],
+    "sellingPoints": [
+      "快速制冷，出风均匀",
+      "宽电压启动，用电更安心",
+      "大风量立柜，客厅快速降温"
+    ],
+    "limitations": [
+      "制冷时室内偏干",
+      "柜机占地约0.2㎡"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 2.5
+  },
+  {
+    "id": "AC-16",
+    "name": "青澜 静宇系列 立柜空调 AC117",
+    "brand": "青澜（模拟品牌）",
+    "category": "空调",
+    "price": 8100,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 35,
+      "max": 58
+    },
+    "dimensionsMm": {
+      "width": 430,
+      "depth": 390,
+      "height": 1735
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": [
+      22,
+      32
+    ],
+    "rating": 4.3,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "立柜",
+      "高端",
+      "静音",
+      "节能"
+    ],
+    "sellingPoints": [
+      "低风量运行更安静",
+      "易拆滤网，清洗方便",
+      "大风量立柜，客厅快速降温"
+    ],
+    "limitations": [
+      "外机安装位置需提前确认",
+      "柜机占地约0.2㎡"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 2.75
+  },
+  {
+    "id": "AC-17",
+    "name": "岚汐 御宇系列 新风立柜空调 AC127",
+    "brand": "岚汐（模拟品牌）",
+    "category": "空调",
+    "price": 9700,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 35,
+      "max": 59
+    },
+    "dimensionsMm": {
+      "width": 440,
+      "depth": 400,
+      "height": 1760
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": [
+      30,
+      45
+    ],
+    "rating": 4.2,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "新风立柜",
+      "旗舰",
+      "静音",
+      "节能"
+    ],
+    "sellingPoints": [
+      "智能温控，避免过冷过热",
+      "自清洁蒸发器，减少维护",
+      "新风换气，久待不闷"
+    ],
+    "limitations": [
+      "低温制热效率下降",
+      "外机位需与物业确认"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 3
+  },
+  {
+    "id": "AC-18",
+    "name": "海屿 御宇系列 新风立柜空调 AC134",
+    "brand": "海屿（模拟品牌）",
+    "category": "空调",
+    "price": 10700,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 36,
+      "max": 59
+    },
+    "dimensionsMm": {
+      "width": 440,
+      "depth": 400,
+      "height": 1760
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": [
+      30,
+      45
+    ],
+    "rating": 4.9,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "新风立柜",
+      "旗舰",
+      "静音",
+      "节能"
+    ],
+    "sellingPoints": [
+      "快速制冷，出风均匀",
+      "宽电压启动，用电更安心",
+      "新风换气，久待不闷"
+    ],
+    "limitations": [
+      "柜机占用一定地面空间",
+      "外机位需与物业确认"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 3.25
+  },
+  {
+    "id": "AC-19",
+    "name": "听澜 御宇系列 新风立柜空调 AC141",
+    "brand": "听澜（模拟品牌）",
+    "category": "空调",
+    "price": 11700,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 35,
+      "max": 59
+    },
+    "dimensionsMm": {
+      "width": 450,
+      "depth": 410,
+      "height": 1775
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": [
+      30,
+      45
+    ],
+    "rating": 4.8,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "新风立柜",
+      "旗舰",
+      "静音",
+      "节能"
+    ],
+    "sellingPoints": [
+      "低风量运行更安静",
+      "易拆滤网，清洗方便",
+      "新风换气，久待不闷"
+    ],
+    "limitations": [
+      "滤网需按季清洗",
+      "外机位需与物业确认"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 3.5
+  },
+  {
+    "id": "AC-20",
+    "name": "屿光 御宇系列 新风立柜空调 AC148",
+    "brand": "屿光（模拟品牌）",
+    "category": "空调",
+    "price": 12700,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 36,
+      "max": 59
+    },
+    "dimensionsMm": {
+      "width": 450,
+      "depth": 410,
+      "height": 1775
+    },
+    "familySizeFit": [
+      4,
+      6
+    ],
+    "suitableArea": [
+      30,
+      45
+    ],
+    "rating": 4.7,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "新风立柜",
+      "旗舰",
+      "静音",
+      "节能"
+    ],
+    "sellingPoints": [
+      "智能温控，避免过冷过热",
+      "自清洁蒸发器，减少维护",
+      "新风换气，久待不闷"
+    ],
+    "limitations": [
+      "运行时出风口附近风感明显",
+      "外机位需与物业确认"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "horsepower": 3.75
+  },
+  {
+    "id": "WH-01",
+    "name": "青澜 暖屿系列 储水式电热水器 WH003",
+    "brand": "青澜（模拟品牌）",
+    "category": "热水器",
+    "price": 800,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 45,
+      "max": 52
+    },
+    "dimensionsMm": {
+      "width": 460,
+      "depth": 480,
+      "height": 760
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.6,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "储水式电",
+      "入门"
+    ],
+    "sellingPoints": [
+      "多档水温调节",
+      "恒温出水，洗浴更舒适",
+      "小体积，适合小卫浴"
+    ],
+    "limitations": [
+      "储水式需预热后使用",
+      "容量有限，连续洗浴需等待"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 40,
+    "heatType": "储水式电热"
+  },
+  {
+    "id": "WH-02",
+    "name": "岚汐 暖屿系列 储水式电热水器 WH010",
+    "brand": "岚汐（模拟品牌）",
+    "category": "热水器",
+    "price": 1000,
+    "priceBand": "入门",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 46,
+      "max": 52
+    },
+    "dimensionsMm": {
+      "width": 460,
+      "depth": 480,
+      "height": 760
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.5,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "储水式电",
+      "入门"
+    ],
+    "sellingPoints": [
+      "速热模式，无需久等",
+      "大水量，满足连续洗浴",
+      "小体积，适合小卫浴"
+    ],
+    "limitations": [
+      "长期使用需检查镁棒",
+      "容量有限，连续洗浴需等待"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 45,
+    "heatType": "储水式电热"
+  },
+  {
+    "id": "WH-03",
+    "name": "海屿 暖屿系列 储水式电热水器 WH017",
+    "brand": "海屿（模拟品牌）",
+    "category": "热水器",
+    "price": 1100,
+    "priceBand": "入门",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 45,
+      "max": 52
+    },
+    "dimensionsMm": {
+      "width": 470,
+      "depth": 490,
+      "height": 775
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.4,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "储水式电",
+      "入门"
+    ],
+    "sellingPoints": [
+      "一级能效，保温省电",
+      "防电墙安全设计",
+      "小体积，适合小卫浴"
+    ],
+    "limitations": [
+      "燃气式安装要求通风良好",
+      "容量有限，连续洗浴需等待"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 50,
+    "heatType": "储水式电热"
+  },
+  {
+    "id": "WH-04",
+    "name": "听澜 暖屿系列 储水式电热水器 WH024",
+    "brand": "听澜（模拟品牌）",
+    "category": "热水器",
+    "price": 1300,
+    "priceBand": "入门",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 46,
+      "max": 52
+    },
+    "dimensionsMm": {
+      "width": 470,
+      "depth": 490,
+      "height": 775
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.3,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "储水式电",
+      "入门"
+    ],
+    "sellingPoints": [
+      "多档水温调节",
+      "恒温出水，洗浴更舒适",
+      "小体积，适合小卫浴"
+    ],
+    "limitations": [
+      "冬季进水温度低时热水量略降",
+      "容量有限，连续洗浴需等待"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 55,
+    "heatType": "储水式电热"
+  },
+  {
+    "id": "WH-05",
+    "name": "屿光 澄暖系列 储水式电热水器 WH034",
+    "brand": "屿光（模拟品牌）",
+    "category": "热水器",
+    "price": 1700,
+    "priceBand": "中端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 44,
+      "max": 53
+    },
+    "dimensionsMm": {
+      "width": 470,
+      "depth": 490,
+      "height": 880
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.2,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "储水式电",
+      "中端"
+    ],
+    "sellingPoints": [
+      "速热模式，无需久等",
+      "大水量，满足连续洗浴",
+      "保温层加厚，更省电"
+    ],
+    "limitations": [
+      "体积较大，需预留安装空间",
+      "加热速度一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 50,
+    "heatType": "储水式电热"
+  },
+  {
+    "id": "WH-06",
+    "name": "青澜 澄暖系列 储水式电热水器 WH041",
+    "brand": "青澜（模拟品牌）",
+    "category": "热水器",
+    "price": 1900,
+    "priceBand": "中端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 45,
+      "max": 53
+    },
+    "dimensionsMm": {
+      "width": 470,
+      "depth": 490,
+      "height": 880
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.9,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "储水式电",
+      "中端"
+    ],
+    "sellingPoints": [
+      "一级能效，保温省电",
+      "防电墙安全设计",
+      "保温层加厚，更省电"
+    ],
+    "limitations": [
+      "水质较硬地区建议定期除垢",
+      "加热速度一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 55,
+    "heatType": "储水式电热"
+  },
+  {
+    "id": "WH-07",
+    "name": "岚汐 澄暖系列 储水式电热水器 WH048",
+    "brand": "岚汐（模拟品牌）",
+    "category": "热水器",
+    "price": 2100,
+    "priceBand": "中端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 44,
+      "max": 53
+    },
+    "dimensionsMm": {
+      "width": 480,
+      "depth": 500,
+      "height": 895
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.8,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "储水式电",
+      "中端"
+    ],
+    "sellingPoints": [
+      "多档水温调节",
+      "恒温出水，洗浴更舒适",
+      "保温层加厚，更省电"
+    ],
+    "limitations": [
+      "储水式需预热后使用",
+      "加热速度一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 60,
+    "heatType": "储水式电热"
+  },
+  {
+    "id": "WH-08",
+    "name": "海屿 澄暖系列 储水式电热水器 WH055",
+    "brand": "海屿（模拟品牌）",
+    "category": "热水器",
+    "price": 2300,
+    "priceBand": "中端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 45,
+      "max": 53
+    },
+    "dimensionsMm": {
+      "width": 480,
+      "depth": 500,
+      "height": 895
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.7,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "储水式电",
+      "中端"
+    ],
+    "sellingPoints": [
+      "速热模式，无需久等",
+      "大水量，满足连续洗浴",
+      "保温层加厚，更省电"
+    ],
+    "limitations": [
+      "长期使用需检查镁棒",
+      "加热速度一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 65,
+    "heatType": "储水式电热"
+  },
+  {
+    "id": "WH-09",
+    "name": "听澜 速暖系列 速热式电热水器 WH065",
+    "brand": "听澜（模拟品牌）",
+    "category": "热水器",
+    "price": 3000,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 43,
+      "max": 54
+    },
+    "dimensionsMm": {
+      "width": 480,
+      "depth": 500,
+      "height": 960
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.6,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "速热式电",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "一级能效，保温省电",
+      "防电墙安全设计",
+      "速热即洗，无需久等"
+    ],
+    "limitations": [
+      "燃气式安装要求通风良好",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 60,
+    "heatType": "速热式电热"
+  },
+  {
+    "id": "WH-10",
+    "name": "屿光 速暖系列 速热式电热水器 WH072",
+    "brand": "屿光（模拟品牌）",
+    "category": "热水器",
+    "price": 3200,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 44,
+      "max": 54
+    },
+    "dimensionsMm": {
+      "width": 480,
+      "depth": 500,
+      "height": 960
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.5,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "速热式电",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "多档水温调节",
+      "恒温出水，洗浴更舒适",
+      "速热即洗，无需久等"
+    ],
+    "limitations": [
+      "冬季进水温度低时热水量略降",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 65,
+    "heatType": "速热式电热"
+  },
+  {
+    "id": "WH-11",
+    "name": "青澜 速暖系列 速热式电热水器 WH079",
+    "brand": "青澜（模拟品牌）",
+    "category": "热水器",
+    "price": 3400,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 43,
+      "max": 54
+    },
+    "dimensionsMm": {
+      "width": 490,
+      "depth": 510,
+      "height": 975
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.4,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "速热式电",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "速热模式，无需久等",
+      "大水量，满足连续洗浴",
+      "速热即洗，无需久等"
+    ],
+    "limitations": [
+      "体积较大，需预留安装空间",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 70,
+    "heatType": "速热式电热"
+  },
+  {
+    "id": "WH-12",
+    "name": "岚汐 速暖系列 速热式电热水器 WH086",
+    "brand": "岚汐（模拟品牌）",
+    "category": "热水器",
+    "price": 3600,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 44,
+      "max": 54
+    },
+    "dimensionsMm": {
+      "width": 490,
+      "depth": 510,
+      "height": 975
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.3,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "速热式电",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "一级能效，保温省电",
+      "防电墙安全设计",
+      "速热即洗，无需久等"
+    ],
+    "limitations": [
+      "水质较硬地区建议定期除垢",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 75,
+    "heatType": "速热式电热"
+  },
+  {
+    "id": "WH-13",
+    "name": "海屿 恒澜系列 燃气热水器 WH096",
+    "brand": "海屿（模拟品牌）",
+    "category": "热水器",
+    "price": 4400,
+    "priceBand": "高端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 42,
+      "max": 55
+    },
+    "dimensionsMm": {
+      "width": 380,
+      "depth": 180,
+      "height": 580
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.2,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "燃气",
+      "高端"
+    ],
+    "sellingPoints": [
+      "多档水温调节",
+      "恒温出水，洗浴更舒适",
+      "恒温燃烧，多点供水稳定"
+    ],
+    "limitations": [
+      "储水式需预热后使用",
+      "燃气安装需专业持证人员"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 13,
+    "heatType": "燃气式"
+  },
+  {
+    "id": "WH-14",
+    "name": "听澜 恒澜系列 燃气热水器 WH103",
+    "brand": "听澜（模拟品牌）",
+    "category": "热水器",
+    "price": 4700,
+    "priceBand": "高端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 43,
+      "max": 55
+    },
+    "dimensionsMm": {
+      "width": 380,
+      "depth": 180,
+      "height": 580
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.9,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "燃气",
+      "高端"
+    ],
+    "sellingPoints": [
+      "速热模式，无需久等",
+      "大水量，满足连续洗浴",
+      "恒温燃烧，多点供水稳定"
+    ],
+    "limitations": [
+      "长期使用需检查镁棒",
+      "燃气安装需专业持证人员"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 14,
+    "heatType": "燃气式"
+  },
+  {
+    "id": "WH-15",
+    "name": "屿光 恒澜系列 燃气热水器 WH110",
+    "brand": "屿光（模拟品牌）",
+    "category": "热水器",
+    "price": 5000,
+    "priceBand": "高端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 42,
+      "max": 55
+    },
+    "dimensionsMm": {
+      "width": 390,
+      "depth": 190,
+      "height": 595
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.8,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "燃气",
+      "高端"
+    ],
+    "sellingPoints": [
+      "一级能效，保温省电",
+      "防电墙安全设计",
+      "恒温燃烧，多点供水稳定"
+    ],
+    "limitations": [
+      "燃气式安装要求通风良好",
+      "燃气安装需专业持证人员"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 15,
+    "heatType": "燃气式"
+  },
+  {
+    "id": "WH-16",
+    "name": "青澜 恒澜系列 燃气热水器 WH117",
+    "brand": "青澜（模拟品牌）",
+    "category": "热水器",
+    "price": 5400,
+    "priceBand": "高端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 43,
+      "max": 55
+    },
+    "dimensionsMm": {
+      "width": 390,
+      "depth": 190,
+      "height": 595
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.7,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "燃气",
+      "高端"
+    ],
+    "sellingPoints": [
+      "多档水温调节",
+      "恒温出水，洗浴更舒适",
+      "恒温燃烧，多点供水稳定"
+    ],
+    "limitations": [
+      "冬季进水温度低时热水量略降",
+      "燃气安装需专业持证人员"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 16,
+    "heatType": "燃气式"
+  },
+  {
+    "id": "WH-17",
+    "name": "岚汐 御暖系列 空气能热水器 WH127",
+    "brand": "岚汐（模拟品牌）",
+    "category": "热水器",
+    "price": 6700,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 41,
+      "max": 56
+    },
+    "dimensionsMm": {
+      "width": 700,
+      "depth": 700,
+      "height": 1800
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.6,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "空气能",
+      "旗舰",
+      "节能"
+    ],
+    "sellingPoints": [
+      "速热模式，无需久等",
+      "大水量，满足连续洗浴",
+      "空气能制热，能效领先"
+    ],
+    "limitations": [
+      "体积较大，需预留安装空间",
+      "水箱大，对安装空间有要求"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 150,
+    "heatType": "空气能"
+  },
+  {
+    "id": "WH-18",
+    "name": "海屿 御暖系列 空气能热水器 WH134",
+    "brand": "海屿（模拟品牌）",
+    "category": "热水器",
+    "price": 7400,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 42,
+      "max": 56
+    },
+    "dimensionsMm": {
+      "width": 700,
+      "depth": 700,
+      "height": 1800
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.5,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "空气能",
+      "旗舰",
+      "节能"
+    ],
+    "sellingPoints": [
+      "一级能效，保温省电",
+      "防电墙安全设计",
+      "空气能制热，能效领先"
+    ],
+    "limitations": [
+      "水质较硬地区建议定期除垢",
+      "水箱大，对安装空间有要求"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 160,
+    "heatType": "空气能"
+  },
+  {
+    "id": "WH-19",
+    "name": "听澜 御暖系列 空气能热水器 WH141",
+    "brand": "听澜（模拟品牌）",
+    "category": "热水器",
+    "price": 8100,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 41,
+      "max": 56
+    },
+    "dimensionsMm": {
+      "width": 710,
+      "depth": 710,
+      "height": 1815
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.4,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "空气能",
+      "旗舰",
+      "节能"
+    ],
+    "sellingPoints": [
+      "多档水温调节",
+      "恒温出水，洗浴更舒适",
+      "空气能制热，能效领先"
+    ],
+    "limitations": [
+      "储水式需预热后使用",
+      "水箱大，对安装空间有要求"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 170,
+    "heatType": "空气能"
+  },
+  {
+    "id": "WH-20",
+    "name": "屿光 御暖系列 空气能热水器 WH148",
+    "brand": "屿光（模拟品牌）",
+    "category": "热水器",
+    "price": 8800,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 42,
+      "max": 56
+    },
+    "dimensionsMm": {
+      "width": 710,
+      "depth": 710,
+      "height": 1815
+    },
+    "familySizeFit": [
+      4,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.3,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "空气能",
+      "旗舰",
+      "节能"
+    ],
+    "sellingPoints": [
+      "速热模式，无需久等",
+      "大水量，满足连续洗浴",
+      "空气能制热，能效领先"
+    ],
+    "limitations": [
+      "长期使用需检查镁棒",
+      "水箱大，对安装空间有要求"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "literL": 180,
+    "heatType": "空气能"
+  },
+  {
+    "id": "TV-01",
+    "name": "青澜 悦屿系列 液晶电视 TV003",
+    "brand": "青澜（模拟品牌）",
+    "category": "电视",
+    "price": 1100,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 30,
+      "max": 38
+    },
+    "dimensionsMm": {
+      "width": 980,
+      "depth": 90,
+      "height": 580
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": [
+      10,
+      15
+    ],
+    "rating": 4.2,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "液晶",
+      "入门",
+      "静音"
+    ],
+    "sellingPoints": [
+      "金属全面屏，颜值在线",
+      "低蓝光护眼模式",
+      "小尺寸卧室好选择"
+    ],
+    "limitations": [
+      "系统广告可在设置中关闭",
+      "亮场表现一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 43,
+    "resolution": "全高清"
+  },
+  {
+    "id": "TV-02",
+    "name": "岚汐 悦屿系列 液晶电视 TV010",
+    "brand": "岚汐（模拟品牌）",
+    "category": "电视",
+    "price": 1300,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 31,
+      "max": 38
+    },
+    "dimensionsMm": {
+      "width": 980,
+      "depth": 90,
+      "height": 580
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": [
+      10,
+      15
+    ],
+    "rating": 4.9,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "液晶",
+      "入门",
+      "静音"
+    ],
+    "sellingPoints": [
+      "广色域画面，色彩通透",
+      "运动补偿，观赛不拖影",
+      "小尺寸卧室好选择"
+    ],
+    "limitations": [
+      "深色画面偶有光晕",
+      "亮场表现一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 43,
+    "resolution": "全高清"
+  },
+  {
+    "id": "TV-03",
+    "name": "海屿 悦屿系列 液晶电视 TV017",
+    "brand": "海屿（模拟品牌）",
+    "category": "电视",
+    "price": 1500,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 30,
+      "max": 38
+    },
+    "dimensionsMm": {
+      "width": 990,
+      "depth": 100,
+      "height": 595
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": [
+      10,
+      15
+    ],
+    "rating": 4.8,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "液晶",
+      "入门",
+      "静音"
+    ],
+    "sellingPoints": [
+      "远场语音，动口不动手",
+      "多接口，外接设备方便",
+      "小尺寸卧室好选择"
+    ],
+    "limitations": [
+      "接口位于背面，壁挂后插拔不便",
+      "亮场表现一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 43,
+    "resolution": "全高清"
+  },
+  {
+    "id": "TV-04",
+    "name": "听澜 悦屿系列 液晶电视 TV024",
+    "brand": "听澜（模拟品牌）",
+    "category": "电视",
+    "price": 1700,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 31,
+      "max": 38
+    },
+    "dimensionsMm": {
+      "width": 990,
+      "depth": 100,
+      "height": 595
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": [
+      10,
+      15
+    ],
+    "rating": 4.7,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "液晶",
+      "入门",
+      "静音"
+    ],
+    "sellingPoints": [
+      "金属全面屏，颜值在线",
+      "低蓝光护眼模式",
+      "小尺寸卧室好选择"
+    ],
+    "limitations": [
+      "高分片源对带宽有一定要求",
+      "亮场表现一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 43,
+    "resolution": "全高清"
+  },
+  {
+    "id": "TV-05",
+    "name": "屿光 澄悦系列 4K液晶电视 TV034",
+    "brand": "屿光（模拟品牌）",
+    "category": "电视",
+    "price": 2400,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 29,
+      "max": 37
+    },
+    "dimensionsMm": {
+      "width": 1130,
+      "depth": 95,
+      "height": 660
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": [
+      12,
+      20
+    ],
+    "rating": 4.6,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "4K液晶",
+      "中端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "广色域画面，色彩通透",
+      "运动补偿，观赛不拖影",
+      "主流尺寸，客厅适配"
+    ],
+    "limitations": [
+      "屏幕尺寸大，注意观看距离",
+      "色域覆盖中等"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 50,
+    "resolution": "4K超高清"
+  },
+  {
+    "id": "TV-06",
+    "name": "青澜 澄悦系列 4K液晶电视 TV041",
+    "brand": "青澜（模拟品牌）",
+    "category": "电视",
+    "price": 2600,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 30,
+      "max": 37
+    },
+    "dimensionsMm": {
+      "width": 1130,
+      "depth": 95,
+      "height": 660
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": [
+      12,
+      20
+    ],
+    "rating": 4.5,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "4K液晶",
+      "中端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "远场语音，动口不动手",
+      "多接口，外接设备方便",
+      "主流尺寸，客厅适配"
+    ],
+    "limitations": [
+      "壁挂安装需承重墙",
+      "色域覆盖中等"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 50,
+    "resolution": "4K超高清"
+  },
+  {
+    "id": "TV-07",
+    "name": "岚汐 澄悦系列 4K液晶电视 TV048",
+    "brand": "岚汐（模拟品牌）",
+    "category": "电视",
+    "price": 2900,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 29,
+      "max": 37
+    },
+    "dimensionsMm": {
+      "width": 1140,
+      "depth": 105,
+      "height": 675
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": [
+      12,
+      20
+    ],
+    "rating": 4.4,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "4K液晶",
+      "中端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "金属全面屏，颜值在线",
+      "低蓝光护眼模式",
+      "主流尺寸，客厅适配"
+    ],
+    "limitations": [
+      "系统广告可在设置中关闭",
+      "色域覆盖中等"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 50,
+    "resolution": "4K超高清"
+  },
+  {
+    "id": "TV-08",
+    "name": "海屿 澄悦系列 4K液晶电视 TV055",
+    "brand": "海屿（模拟品牌）",
+    "category": "电视",
+    "price": 3200,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 30,
+      "max": 37
+    },
+    "dimensionsMm": {
+      "width": 1140,
+      "depth": 105,
+      "height": 675
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": [
+      12,
+      20
+    ],
+    "rating": 4.3,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "4K液晶",
+      "中端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "广色域画面，色彩通透",
+      "运动补偿，观赛不拖影",
+      "主流尺寸，客厅适配"
+    ],
+    "limitations": [
+      "深色画面偶有光晕",
+      "色域覆盖中等"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 50,
+    "resolution": "4K超高清"
+  },
+  {
+    "id": "TV-09",
+    "name": "听澜 景屿系列 4K全面屏电视 TV065",
+    "brand": "听澜（模拟品牌）",
+    "category": "电视",
+    "price": 4000,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 28,
+      "max": 36
+    },
+    "dimensionsMm": {
+      "width": 1240,
+      "depth": 80,
+      "height": 720
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": [
+      15,
+      25
+    ],
+    "rating": 4.2,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "4K全面屏",
+      "中高端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "远场语音，动口不动手",
+      "多接口，外接设备方便",
+      "全面屏观感，窄边框"
+    ],
+    "limitations": [
+      "接口位于背面，壁挂后插拔不便",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 55,
+    "resolution": "4K超高清"
+  },
+  {
+    "id": "TV-10",
+    "name": "屿光 景屿系列 4K全面屏电视 TV072",
+    "brand": "屿光（模拟品牌）",
+    "category": "电视",
+    "price": 4300,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 29,
+      "max": 36
+    },
+    "dimensionsMm": {
+      "width": 1240,
+      "depth": 80,
+      "height": 720
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": [
+      15,
+      25
+    ],
+    "rating": 4.9,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "4K全面屏",
+      "中高端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "金属全面屏，颜值在线",
+      "低蓝光护眼模式",
+      "全面屏观感，窄边框"
+    ],
+    "limitations": [
+      "高分片源对带宽有一定要求",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 55,
+    "resolution": "4K超高清"
+  },
+  {
+    "id": "TV-11",
+    "name": "青澜 景屿系列 4K全面屏电视 TV079",
+    "brand": "青澜（模拟品牌）",
+    "category": "电视",
+    "price": 4700,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 28,
+      "max": 36
+    },
+    "dimensionsMm": {
+      "width": 1250,
+      "depth": 90,
+      "height": 735
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": [
+      15,
+      25
+    ],
+    "rating": 4.8,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "4K全面屏",
+      "中高端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "广色域画面，色彩通透",
+      "运动补偿，观赛不拖影",
+      "全面屏观感，窄边框"
+    ],
+    "limitations": [
+      "屏幕尺寸大，注意观看距离",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 55,
+    "resolution": "4K超高清"
+  },
+  {
+    "id": "TV-12",
+    "name": "岚汐 景屿系列 4K全面屏电视 TV086",
+    "brand": "岚汐（模拟品牌）",
+    "category": "电视",
+    "price": 5000,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 29,
+      "max": 36
+    },
+    "dimensionsMm": {
+      "width": 1250,
+      "depth": 90,
+      "height": 735
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": [
+      15,
+      25
+    ],
+    "rating": 4.7,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "4K全面屏",
+      "中高端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "远场语音，动口不动手",
+      "多接口，外接设备方便",
+      "全面屏观感，窄边框"
+    ],
+    "limitations": [
+      "壁挂安装需承重墙",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 55,
+    "resolution": "4K超高清"
+  },
+  {
+    "id": "TV-13",
+    "name": "海屿 澜景系列 4K量子点电视 TV096",
+    "brand": "海屿（模拟品牌）",
+    "category": "电视",
+    "price": 6100,
+    "priceBand": "高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 27,
+      "max": 35
+    },
+    "dimensionsMm": {
+      "width": 1450,
+      "depth": 85,
+      "height": 840
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": [
+      20,
+      35
+    ],
+    "rating": 4.6,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "4K量子点",
+      "高端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "金属全面屏，颜值在线",
+      "低蓝光护眼模式",
+      "量子点高亮，白天也清晰"
+    ],
+    "limitations": [
+      "系统广告可在设置中关闭",
+      "65英寸以上注意观看距离"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 65,
+    "resolution": "4K超高清"
+  },
+  {
+    "id": "TV-14",
+    "name": "听澜 澜景系列 4K量子点电视 TV103",
+    "brand": "听澜（模拟品牌）",
+    "category": "电视",
+    "price": 6700,
+    "priceBand": "高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 28,
+      "max": 35
+    },
+    "dimensionsMm": {
+      "width": 1450,
+      "depth": 85,
+      "height": 840
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": [
+      20,
+      35
+    ],
+    "rating": 4.5,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "4K量子点",
+      "高端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "广色域画面，色彩通透",
+      "运动补偿，观赛不拖影",
+      "量子点高亮，白天也清晰"
+    ],
+    "limitations": [
+      "深色画面偶有光晕",
+      "65英寸以上注意观看距离"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 65,
+    "resolution": "4K超高清"
+  },
+  {
+    "id": "TV-15",
+    "name": "屿光 澜景系列 4K量子点电视 TV110",
+    "brand": "屿光（模拟品牌）",
+    "category": "电视",
+    "price": 7200,
+    "priceBand": "高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 27,
+      "max": 35
+    },
+    "dimensionsMm": {
+      "width": 1460,
+      "depth": 95,
+      "height": 855
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": [
+      20,
+      35
+    ],
+    "rating": 4.4,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "4K量子点",
+      "高端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "远场语音，动口不动手",
+      "多接口，外接设备方便",
+      "量子点高亮，白天也清晰"
+    ],
+    "limitations": [
+      "接口位于背面，壁挂后插拔不便",
+      "65英寸以上注意观看距离"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 65,
+    "resolution": "4K超高清"
+  },
+  {
+    "id": "TV-16",
+    "name": "青澜 澜景系列 4K量子点电视 TV117",
+    "brand": "青澜（模拟品牌）",
+    "category": "电视",
+    "price": 7800,
+    "priceBand": "高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 28,
+      "max": 35
+    },
+    "dimensionsMm": {
+      "width": 1460,
+      "depth": 95,
+      "height": 855
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": [
+      20,
+      35
+    ],
+    "rating": 4.3,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "4K量子点",
+      "高端",
+      "静音"
+    ],
+    "sellingPoints": [
+      "金属全面屏，颜值在线",
+      "低蓝光护眼模式",
+      "量子点高亮，白天也清晰"
+    ],
+    "limitations": [
+      "高分片源对带宽有一定要求",
+      "65英寸以上注意观看距离"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 65,
+    "resolution": "4K超高清"
+  },
+  {
+    "id": "TV-17",
+    "name": "岚汐 御景系列 8K MiniLED电视 TV127",
+    "brand": "岚汐（模拟品牌）",
+    "category": "电视",
+    "price": 9800,
+    "priceBand": "旗舰",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 26,
+      "max": 34
+    },
+    "dimensionsMm": {
+      "width": 1900,
+      "depth": 95,
+      "height": 1090
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": [
+      28,
+      50
+    ],
+    "rating": 4.2,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "8K MiniLED",
+      "旗舰",
+      "静音"
+    ],
+    "sellingPoints": [
+      "广色域画面，色彩通透",
+      "运动补偿，观赛不拖影",
+      "MiniLED分区控光，暗场细腻"
+    ],
+    "limitations": [
+      "屏幕尺寸大，注意观看距离",
+      "壁挂需承重墙"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 85,
+    "resolution": "8K超高清"
+  },
+  {
+    "id": "TV-18",
+    "name": "海屿 御景系列 8K MiniLED电视 TV134",
+    "brand": "海屿（模拟品牌）",
+    "category": "电视",
+    "price": 11300,
+    "priceBand": "旗舰",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 27,
+      "max": 34
+    },
+    "dimensionsMm": {
+      "width": 1900,
+      "depth": 95,
+      "height": 1090
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": [
+      28,
+      50
+    ],
+    "rating": 4.9,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "8K MiniLED",
+      "旗舰",
+      "静音"
+    ],
+    "sellingPoints": [
+      "远场语音，动口不动手",
+      "多接口，外接设备方便",
+      "MiniLED分区控光，暗场细腻"
+    ],
+    "limitations": [
+      "壁挂安装需承重墙",
+      "壁挂需承重墙"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 85,
+    "resolution": "8K超高清"
+  },
+  {
+    "id": "TV-19",
+    "name": "听澜 御景系列 8K MiniLED电视 TV141",
+    "brand": "听澜（模拟品牌）",
+    "category": "电视",
+    "price": 12700,
+    "priceBand": "旗舰",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 26,
+      "max": 34
+    },
+    "dimensionsMm": {
+      "width": 1910,
+      "depth": 105,
+      "height": 1105
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": [
+      28,
+      50
+    ],
+    "rating": 4.8,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "8K MiniLED",
+      "旗舰",
+      "静音"
+    ],
+    "sellingPoints": [
+      "金属全面屏，颜值在线",
+      "低蓝光护眼模式",
+      "MiniLED分区控光，暗场细腻"
+    ],
+    "limitations": [
+      "系统广告可在设置中关闭",
+      "壁挂需承重墙"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 85,
+    "resolution": "8K超高清"
+  },
+  {
+    "id": "TV-20",
+    "name": "屿光 御景系列 8K MiniLED电视 TV148",
+    "brand": "屿光（模拟品牌）",
+    "category": "电视",
+    "price": 14100,
+    "priceBand": "旗舰",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 27,
+      "max": 34
+    },
+    "dimensionsMm": {
+      "width": 1910,
+      "depth": 105,
+      "height": 1105
+    },
+    "familySizeFit": [
+      4,
+      6
+    ],
+    "suitableArea": [
+      28,
+      50
+    ],
+    "rating": 4.7,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "8K MiniLED",
+      "旗舰",
+      "静音"
+    ],
+    "sellingPoints": [
+      "广色域画面，色彩通透",
+      "运动补偿，观赛不拖影",
+      "MiniLED分区控光，暗场细腻"
+    ],
+    "limitations": [
+      "深色画面偶有光晕",
+      "壁挂需承重墙"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "inchSize": 85,
+    "resolution": "8K超高清"
+  },
+  {
+    "id": "DW-01",
+    "name": "青澜 简净系列 台式洗碗机 DW003",
+    "brand": "青澜（模拟品牌）",
+    "category": "洗碗机",
+    "price": 1900,
+    "priceBand": "入门",
+    "energyGrade": "三级",
+    "noiseDb": {
+      "standard": 52,
+      "max": 58
+    },
+    "dimensionsMm": {
+      "width": 550,
+      "depth": 500,
+      "height": 450
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.6,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "台式",
+      "入门"
+    ],
+    "sellingPoints": [
+      "分层洗涤，少量餐具也省水",
+      "软水系统，减少水垢残留",
+      "免安装改造，即插即用"
+    ],
+    "limitations": [
+      "木质与部分塑料餐具需手洗",
+      "容量较小，锅具需手洗"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 4,
+    "dryType": "余热烘干"
+  },
+  {
+    "id": "DW-02",
+    "name": "岚汐 简净系列 台式洗碗机 DW010",
+    "brand": "岚汐（模拟品牌）",
+    "category": "洗碗机",
+    "price": 2100,
+    "priceBand": "入门",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 53,
+      "max": 58
+    },
+    "dimensionsMm": {
+      "width": 550,
+      "depth": 500,
+      "height": 450
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.5,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "台式",
+      "入门"
+    ],
+    "sellingPoints": [
+      "低噪运行，开放厨房也友好",
+      "多种洗涤模式，灵活选择",
+      "免安装改造，即插即用"
+    ],
+    "limitations": [
+      "排水管高度有安装要求",
+      "容量较小，锅具需手洗"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 5,
+    "dryType": "余热烘干"
+  },
+  {
+    "id": "DW-03",
+    "name": "海屿 简净系列 台式洗碗机 DW017",
+    "brand": "海屿（模拟品牌）",
+    "category": "洗碗机",
+    "price": 2300,
+    "priceBand": "入门",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 52,
+      "max": 58
+    },
+    "dimensionsMm": {
+      "width": 560,
+      "depth": 510,
+      "height": 465
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.4,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "台式",
+      "入门"
+    ],
+    "sellingPoints": [
+      "高温洗涤，油污更易溶解",
+      "烘存一体，餐具长效干爽",
+      "免安装改造，即插即用"
+    ],
+    "limitations": [
+      "重油污餐具建议预冲一下",
+      "容量较小，锅具需手洗"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 6,
+    "dryType": "余热烘干"
+  },
+  {
+    "id": "DW-04",
+    "name": "听澜 简净系列 台式洗碗机 DW024",
+    "brand": "听澜（模拟品牌）",
+    "category": "洗碗机",
+    "price": 2500,
+    "priceBand": "入门",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 53,
+      "max": 58
+    },
+    "dimensionsMm": {
+      "width": 560,
+      "depth": 510,
+      "height": 465
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.3,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修1年，主要部件保修3年（模拟政策）",
+    "tags": [
+      "台式",
+      "入门"
+    ],
+    "sellingPoints": [
+      "分层洗涤，少量餐具也省水",
+      "软水系统，减少水垢残留",
+      "免安装改造，即插即用"
+    ],
+    "limitations": [
+      "需使用专用洗碗盐与亮碟剂",
+      "容量较小，锅具需手洗"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 7,
+    "dryType": "余热烘干"
+  },
+  {
+    "id": "DW-05",
+    "name": "屿光 净屿系列 嵌入式洗碗机 DW034",
+    "brand": "屿光（模拟品牌）",
+    "category": "洗碗机",
+    "price": 3200,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 50,
+      "max": 56
+    },
+    "dimensionsMm": {
+      "width": 598,
+      "depth": 600,
+      "height": 760
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.2,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "嵌入式",
+      "中端"
+    ],
+    "sellingPoints": [
+      "低噪运行，开放厨房也友好",
+      "多种洗涤模式，灵活选择",
+      "标准橱柜位嵌入"
+    ],
+    "limitations": [
+      "嵌入安装需橱柜预留位",
+      "烘干效果一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 8,
+    "dryType": "热风烘干"
+  },
+  {
+    "id": "DW-06",
+    "name": "青澜 净屿系列 嵌入式洗碗机 DW041",
+    "brand": "青澜（模拟品牌）",
+    "category": "洗碗机",
+    "price": 3400,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 51,
+      "max": 56
+    },
+    "dimensionsMm": {
+      "width": 598,
+      "depth": 600,
+      "height": 760
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.9,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "嵌入式",
+      "中端"
+    ],
+    "sellingPoints": [
+      "高温洗涤，油污更易溶解",
+      "烘存一体，餐具长效干爽",
+      "标准橱柜位嵌入"
+    ],
+    "limitations": [
+      "少量餐具洗涤略费时",
+      "烘干效果一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 9,
+    "dryType": "热风烘干"
+  },
+  {
+    "id": "DW-07",
+    "name": "岚汐 净屿系列 嵌入式洗碗机 DW048",
+    "brand": "岚汐（模拟品牌）",
+    "category": "洗碗机",
+    "price": 3700,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 50,
+      "max": 56
+    },
+    "dimensionsMm": {
+      "width": 608,
+      "depth": 610,
+      "height": 775
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.8,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "嵌入式",
+      "中端"
+    ],
+    "sellingPoints": [
+      "分层洗涤，少量餐具也省水",
+      "软水系统，减少水垢残留",
+      "标准橱柜位嵌入"
+    ],
+    "limitations": [
+      "木质与部分塑料餐具需手洗",
+      "烘干效果一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 10,
+    "dryType": "热风烘干"
+  },
+  {
+    "id": "DW-08",
+    "name": "海屿 净屿系列 嵌入式洗碗机 DW055",
+    "brand": "海屿（模拟品牌）",
+    "category": "洗碗机",
+    "price": 4000,
+    "priceBand": "中端",
+    "energyGrade": "二级",
+    "noiseDb": {
+      "standard": 51,
+      "max": 56
+    },
+    "dimensionsMm": {
+      "width": 608,
+      "depth": 610,
+      "height": 775
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.7,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修2年，主要部件保修4年（模拟政策）",
+    "tags": [
+      "嵌入式",
+      "中端"
+    ],
+    "sellingPoints": [
+      "低噪运行，开放厨房也友好",
+      "多种洗涤模式，灵活选择",
+      "标准橱柜位嵌入"
+    ],
+    "limitations": [
+      "排水管高度有安装要求",
+      "烘干效果一般"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 11,
+    "dryType": "热风烘干"
+  },
+  {
+    "id": "DW-09",
+    "name": "听澜 澄净系列 嵌入式洗碗机 DW065",
+    "brand": "听澜（模拟品牌）",
+    "category": "洗碗机",
+    "price": 4700,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 48,
+      "max": 54
+    },
+    "dimensionsMm": {
+      "width": 598,
+      "depth": 620,
+      "height": 775
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.6,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "嵌入式",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "高温洗涤，油污更易溶解",
+      "烘存一体，餐具长效干爽",
+      "一级水效，省水省电"
+    ],
+    "limitations": [
+      "重油污餐具建议预冲一下",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 10,
+    "dryType": "热风烘干"
+  },
+  {
+    "id": "DW-10",
+    "name": "屿光 澄净系列 嵌入式洗碗机 DW072",
+    "brand": "屿光（模拟品牌）",
+    "category": "洗碗机",
+    "price": 5000,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 49,
+      "max": 54
+    },
+    "dimensionsMm": {
+      "width": 598,
+      "depth": 620,
+      "height": 775
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.5,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "嵌入式",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "分层洗涤，少量餐具也省水",
+      "软水系统，减少水垢残留",
+      "一级水效，省水省电"
+    ],
+    "limitations": [
+      "需使用专用洗碗盐与亮碟剂",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 11,
+    "dryType": "热风烘干"
+  },
+  {
+    "id": "DW-11",
+    "name": "青澜 澄净系列 嵌入式洗碗机 DW079",
+    "brand": "青澜（模拟品牌）",
+    "category": "洗碗机",
+    "price": 5400,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 48,
+      "max": 54
+    },
+    "dimensionsMm": {
+      "width": 608,
+      "depth": 630,
+      "height": 790
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.4,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "嵌入式",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "低噪运行，开放厨房也友好",
+      "多种洗涤模式，灵活选择",
+      "一级水效，省水省电"
+    ],
+    "limitations": [
+      "嵌入安装需橱柜预留位",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 12,
+    "dryType": "热风烘干"
+  },
+  {
+    "id": "DW-12",
+    "name": "岚汐 澄净系列 嵌入式洗碗机 DW086",
+    "brand": "岚汐（模拟品牌）",
+    "category": "洗碗机",
+    "price": 5700,
+    "priceBand": "中高端",
+    "energyGrade": "一级",
+    "noiseDb": {
+      "standard": 49,
+      "max": 54
+    },
+    "dimensionsMm": {
+      "width": 608,
+      "depth": 630,
+      "height": 790
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.3,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修6年（模拟政策）",
+    "tags": [
+      "嵌入式",
+      "中高端"
+    ],
+    "sellingPoints": [
+      "高温洗涤，油污更易溶解",
+      "烘存一体，餐具长效干爽",
+      "一级水效，省水省电"
+    ],
+    "limitations": [
+      "少量餐具洗涤略费时",
+      "价格较高，适合预算充足的家庭"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 13,
+    "dryType": "热风烘干"
+  },
+  {
+    "id": "DW-13",
+    "name": "海屿 隐净系列 全嵌入式洗碗机 DW096",
+    "brand": "海屿（模拟品牌）",
+    "category": "洗碗机",
+    "price": 6900,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 46,
+      "max": 52
+    },
+    "dimensionsMm": {
+      "width": 598,
+      "depth": 620,
+      "height": 815
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.2,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "全嵌入式",
+      "高端",
+      "节能"
+    ],
+    "sellingPoints": [
+      "分层洗涤，少量餐具也省水",
+      "软水系统，减少水垢残留",
+      "隐藏式面板，整体美观"
+    ],
+    "limitations": [
+      "木质与部分塑料餐具需手洗",
+      "全嵌入需精确开孔尺寸"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 13,
+    "dryType": "自动开门烘干"
+  },
+  {
+    "id": "DW-14",
+    "name": "听澜 隐净系列 全嵌入式洗碗机 DW103",
+    "brand": "听澜（模拟品牌）",
+    "category": "洗碗机",
+    "price": 7300,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 47,
+      "max": 52
+    },
+    "dimensionsMm": {
+      "width": 598,
+      "depth": 620,
+      "height": 815
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.9,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "全嵌入式",
+      "高端",
+      "节能"
+    ],
+    "sellingPoints": [
+      "低噪运行，开放厨房也友好",
+      "多种洗涤模式，灵活选择",
+      "隐藏式面板，整体美观"
+    ],
+    "limitations": [
+      "排水管高度有安装要求",
+      "全嵌入需精确开孔尺寸"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 14,
+    "dryType": "自动开门烘干"
+  },
+  {
+    "id": "DW-15",
+    "name": "屿光 隐净系列 全嵌入式洗碗机 DW110",
+    "brand": "屿光（模拟品牌）",
+    "category": "洗碗机",
+    "price": 7800,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 46,
+      "max": 52
+    },
+    "dimensionsMm": {
+      "width": 608,
+      "depth": 630,
+      "height": 830
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.8,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "全嵌入式",
+      "高端",
+      "节能"
+    ],
+    "sellingPoints": [
+      "高温洗涤，油污更易溶解",
+      "烘存一体，餐具长效干爽",
+      "隐藏式面板，整体美观"
+    ],
+    "limitations": [
+      "重油污餐具建议预冲一下",
+      "全嵌入需精确开孔尺寸"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 15,
+    "dryType": "自动开门烘干"
+  },
+  {
+    "id": "DW-16",
+    "name": "青澜 隐净系列 全嵌入式洗碗机 DW117",
+    "brand": "青澜（模拟品牌）",
+    "category": "洗碗机",
+    "price": 8200,
+    "priceBand": "高端",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 47,
+      "max": 52
+    },
+    "dimensionsMm": {
+      "width": 608,
+      "depth": 630,
+      "height": 830
+    },
+    "familySizeFit": [
+      3,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.7,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机保修3年，核心部件保修8年，支持上门检测（模拟政策）",
+    "tags": [
+      "全嵌入式",
+      "高端",
+      "节能"
+    ],
+    "sellingPoints": [
+      "分层洗涤，少量餐具也省水",
+      "软水系统，减少水垢残留",
+      "隐藏式面板，整体美观"
+    ],
+    "limitations": [
+      "需使用专用洗碗盐与亮碟剂",
+      "全嵌入需精确开孔尺寸"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 16,
+    "dryType": "自动开门烘干"
+  },
+  {
+    "id": "DW-17",
+    "name": "岚汐 御净系列 独立嵌入式洗碗机 DW127",
+    "brand": "岚汐（模拟品牌）",
+    "category": "洗碗机",
+    "price": 9700,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 44,
+      "max": 50
+    },
+    "dimensionsMm": {
+      "width": 605,
+      "depth": 640,
+      "height": 820
+    },
+    "familySizeFit": [
+      1,
+      2
+    ],
+    "suitableArea": null,
+    "rating": 4.6,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "独立嵌入式",
+      "旗舰",
+      "节能"
+    ],
+    "sellingPoints": [
+      "低噪运行，开放厨房也友好",
+      "多种洗涤模式，灵活选择",
+      "大容量分层，聚餐无压力"
+    ],
+    "limitations": [
+      "嵌入安装需橱柜预留位",
+      "首次使用需熟悉程序设置"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 15,
+    "dryType": "晶蕾烘干"
+  },
+  {
+    "id": "DW-18",
+    "name": "海屿 御净系列 独立嵌入式洗碗机 DW134",
+    "brand": "海屿（模拟品牌）",
+    "category": "洗碗机",
+    "price": 10700,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 45,
+      "max": 50
+    },
+    "dimensionsMm": {
+      "width": 605,
+      "depth": 640,
+      "height": 820
+    },
+    "familySizeFit": [
+      2,
+      3
+    ],
+    "suitableArea": null,
+    "rating": 4.5,
+    "stockStatus": "库存紧张",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "独立嵌入式",
+      "旗舰",
+      "节能"
+    ],
+    "sellingPoints": [
+      "高温洗涤，油污更易溶解",
+      "烘存一体，餐具长效干爽",
+      "大容量分层，聚餐无压力"
+    ],
+    "limitations": [
+      "少量餐具洗涤略费时",
+      "首次使用需熟悉程序设置"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 16,
+    "dryType": "晶蕾烘干"
+  },
+  {
+    "id": "DW-19",
+    "name": "听澜 御净系列 独立嵌入式洗碗机 DW141",
+    "brand": "听澜（模拟品牌）",
+    "category": "洗碗机",
+    "price": 11700,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 44,
+      "max": 50
+    },
+    "dimensionsMm": {
+      "width": 615,
+      "depth": 650,
+      "height": 835
+    },
+    "familySizeFit": [
+      3,
+      4
+    ],
+    "suitableArea": null,
+    "rating": 4.4,
+    "stockStatus": "有货",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "独立嵌入式",
+      "旗舰",
+      "节能"
+    ],
+    "sellingPoints": [
+      "分层洗涤，少量餐具也省水",
+      "软水系统，减少水垢残留",
+      "大容量分层，聚餐无压力"
+    ],
+    "limitations": [
+      "木质与部分塑料餐具需手洗",
+      "首次使用需熟悉程序设置"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 17,
+    "dryType": "晶蕾烘干"
+  },
+  {
+    "id": "DW-20",
+    "name": "屿光 御净系列 独立嵌入式洗碗机 DW148",
+    "brand": "屿光（模拟品牌）",
+    "category": "洗碗机",
+    "price": 12700,
+    "priceBand": "旗舰",
+    "energyGrade": "新一级",
+    "noiseDb": {
+      "standard": 45,
+      "max": 50
+    },
+    "dimensionsMm": {
+      "width": 615,
+      "depth": 650,
+      "height": 835
+    },
+    "familySizeFit": [
+      4,
+      6
+    ],
+    "suitableArea": null,
+    "rating": 4.3,
+    "stockStatus": "预售",
+    "afterSalesNote": "整机6年包修，核心部件10年，24小时上门（模拟政策）",
+    "tags": [
+      "独立嵌入式",
+      "旗舰",
+      "节能"
+    ],
+    "sellingPoints": [
+      "低噪运行，开放厨房也友好",
+      "多种洗涤模式，灵活选择",
+      "大容量分层，聚餐无压力"
+    ],
+    "limitations": [
+      "排水管高度有安装要求",
+      "首次使用需熟悉程序设置"
+    ],
+    "dataSource": "模拟数据，仅供演示",
+    "placeSets": 18,
+    "dryType": "晶蕾烘干"
+  }
+]

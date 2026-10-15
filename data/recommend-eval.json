@@ -1,0 +1,1459 @@
+[
+  {
+    "id": "REC-RF-01",
+    "type": "single",
+    "category": "冰箱",
+    "title": "三口之家 预算5000以内 日常冷藏",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "冰箱"
+      ],
+      "itemBudget": 5000,
+      "familySize": 3
+    },
+    "accept": {
+      "filters": {
+        "category": "冰箱",
+        "priceMax": 5000,
+        "minCapacityL": 230,
+        "maxCapacityL": 460
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 5000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-RF-02",
+    "type": "single",
+    "category": "冰箱",
+    "title": "海鲜冷冻需求 冷冻室≥100L",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "冰箱"
+      ],
+      "itemBudget": 5500,
+      "familySize": 3,
+      "localNeeds": [
+        "seafood_freezing"
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "冰箱",
+        "priceMax": 5500,
+        "minFreezerL": 100
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 5500,
+      "prefDimMin": {
+        "dim": "freezer",
+        "min": 55
+      },
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-RF-03",
+    "type": "single",
+    "category": "冰箱",
+    "title": "厨房预留宽度600mm 尺寸硬约束",
+    "difficulty": "尺寸超限",
+    "slots": {
+      "categories": [
+        "冰箱"
+      ],
+      "itemBudget": 6000,
+      "familySize": 3,
+      "installationDimensions": [
+        {
+          "location": "厨房",
+          "width": 600,
+          "depth": 650,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "冰箱",
+        "priceMax": 6000,
+        "maxWidthMm": 600
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 6000,
+      "maxWidthMm": 600,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-RF-04",
+    "type": "single",
+    "category": "冰箱",
+    "title": "预算1500 预算不足",
+    "difficulty": "预算不足",
+    "slots": {
+      "categories": [
+        "冰箱"
+      ],
+      "itemBudget": 1500,
+      "familySize": 2
+    },
+    "accept": {
+      "filters": {
+        "category": "冰箱",
+        "priceMax": 1500
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 1500,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-RF-05",
+    "type": "single",
+    "category": "冰箱",
+    "title": "预算1400且宽度不超过500 无完全匹配",
+    "difficulty": "无完全匹配",
+    "slots": {
+      "categories": [
+        "冰箱"
+      ],
+      "itemBudget": 1400,
+      "installationDimensions": [
+        {
+          "location": "厨房",
+          "width": 500,
+          "depth": 600,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "expectNoResult": true,
+      "requireNearest": true
+    }
+  },
+  {
+    "id": "REC-RF-06",
+    "type": "single",
+    "category": "冰箱",
+    "title": "预算3000内要求噪声≤38 偏好冲突",
+    "difficulty": "偏好冲突",
+    "slots": {
+      "categories": [
+        "冰箱"
+      ],
+      "itemBudget": 3000,
+      "preferences": [
+        "quiet"
+      ],
+      "familySize": 3
+    },
+    "accept": {
+      "filters": {
+        "category": "冰箱",
+        "priceMax": 3000
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 3000,
+      "prefDimMin": {
+        "dim": "noise",
+        "min": 45
+      },
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-WM-01",
+    "type": "single",
+    "category": "洗衣机",
+    "title": "三口之家 预算3500 常规",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "洗衣机"
+      ],
+      "itemBudget": 3500,
+      "familySize": 3
+    },
+    "accept": {
+      "filters": {
+        "category": "洗衣机",
+        "priceMax": 3500,
+        "minWashKg": 7
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 3500,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-WM-02",
+    "type": "single",
+    "category": "洗衣机",
+    "title": "四口 预算6000 静音 10kg级",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "洗衣机"
+      ],
+      "itemBudget": 6000,
+      "familySize": 4,
+      "preferences": [
+        "quiet"
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "洗衣机",
+        "priceMax": 6000,
+        "minWashKg": 8.5,
+        "maxNoise": 54
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 6000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-WM-03",
+    "type": "single",
+    "category": "洗衣机",
+    "title": "阳台宽600深580 尺寸硬约束",
+    "difficulty": "尺寸超限",
+    "slots": {
+      "categories": [
+        "洗衣机"
+      ],
+      "itemBudget": 6000,
+      "familySize": 3,
+      "installationDimensions": [
+        {
+          "location": "阳台",
+          "width": 600,
+          "depth": 580,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "洗衣机",
+        "priceMax": 6000,
+        "maxWidthMm": 600,
+        "maxDepthMm": 580
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 6000,
+      "maxWidthMm": 600,
+      "maxDepthMm": 580,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-WM-04",
+    "type": "single",
+    "category": "洗衣机",
+    "title": "预算1200 预算不足",
+    "difficulty": "预算不足",
+    "slots": {
+      "categories": [
+        "洗衣机"
+      ],
+      "itemBudget": 1200,
+      "familySize": 2
+    },
+    "accept": {
+      "filters": {
+        "category": "洗衣机",
+        "priceMax": 1200
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 1200,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-WM-05",
+    "type": "single",
+    "category": "洗衣机",
+    "title": "五口之家 大容量10.5kg以上",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "洗衣机"
+      ],
+      "itemBudget": 8000,
+      "familySize": 5,
+      "preferences": [
+        "large_capacity"
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "洗衣机",
+        "priceMax": 8000,
+        "minWashKg": 10.5
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 8000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-WM-06",
+    "type": "single",
+    "category": "洗衣机",
+    "title": "预算1500要求噪声≤50 偏好冲突",
+    "difficulty": "偏好冲突",
+    "slots": {
+      "categories": [
+        "洗衣机"
+      ],
+      "itemBudget": 1500,
+      "preferences": [
+        "quiet"
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "洗衣机",
+        "priceMax": 1500
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 1500,
+      "prefDimMin": {
+        "dim": "noise",
+        "min": 40
+      },
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-AC-01",
+    "type": "single",
+    "category": "空调",
+    "title": "卧室14㎡ 预算4000",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "空调"
+      ],
+      "itemBudget": 4000,
+      "roomArea": 14
+    },
+    "accept": {
+      "filters": {
+        "category": "空调",
+        "priceMax": 4000,
+        "areaCovers": 14
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 4000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-AC-02",
+    "type": "single",
+    "category": "空调",
+    "title": "卧室14㎡ 预算5500 新一级静音",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "空调"
+      ],
+      "itemBudget": 5500,
+      "roomArea": 14,
+      "preferences": [
+        "energy_saving",
+        "quiet"
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "空调",
+        "priceMax": 5500,
+        "areaCovers": 14,
+        "energyIn": [
+          "新一级"
+        ],
+        "maxNoise": 25
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 5500,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-AC-03",
+    "type": "single",
+    "category": "空调",
+    "title": "客厅30㎡ 预算9000 柜机",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "空调"
+      ],
+      "itemBudget": 9000,
+      "roomArea": 30
+    },
+    "accept": {
+      "filters": {
+        "category": "空调",
+        "priceMax": 9000,
+        "areaCovers": 30
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 9000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-AC-04",
+    "type": "single",
+    "category": "空调",
+    "title": "40㎡但预算5000 面积预算冲突",
+    "difficulty": "无完全匹配",
+    "slots": {
+      "categories": [
+        "空调"
+      ],
+      "itemBudget": 5000,
+      "roomArea": 40
+    },
+    "accept": {
+      "filters": {
+        "category": "空调",
+        "priceMax": 5000,
+        "areaCovers": 40
+      },
+      "expectNoResult": true
+    }
+  },
+  {
+    "id": "REC-AC-05",
+    "type": "single",
+    "category": "空调",
+    "title": "60㎡超大房间 面积超限",
+    "difficulty": "尺寸超限",
+    "slots": {
+      "categories": [
+        "空调"
+      ],
+      "itemBudget": 20000,
+      "roomArea": 60
+    },
+    "accept": {
+      "expectNoResult": true,
+      "requireNearest": true
+    }
+  },
+  {
+    "id": "REC-AC-06",
+    "type": "single",
+    "category": "空调",
+    "title": "预算3000 性价比优先",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "空调"
+      ],
+      "itemBudget": 3000,
+      "preferences": [
+        "cost_effective"
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "空调",
+        "priceMax": 3000
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 3000,
+      "top1PriceMax": 2600,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-WH-01",
+    "type": "single",
+    "category": "热水器",
+    "title": "三口 电热 60L级 预算3000",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "热水器"
+      ],
+      "itemBudget": 3000,
+      "familySize": 3
+    },
+    "accept": {
+      "filters": {
+        "category": "热水器",
+        "priceMax": 3000,
+        "minLiterL": 50,
+        "heatTypeContains": "电热"
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 3000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-WH-02",
+    "type": "single",
+    "category": "热水器",
+    "title": "四口 小空间仅容燃气式 预算5000",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "热水器"
+      ],
+      "itemBudget": 5000,
+      "familySize": 4,
+      "localNeeds": [],
+      "preferences": [],
+      "installationDimensions": [
+        {
+          "location": "卫生间",
+          "width": 400,
+          "depth": 300,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "热水器",
+        "priceMax": 5000,
+        "heatType": "燃气式",
+        "maxWidthMm": 400
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 5000,
+      "requireReasons": true,
+      "forcedCategory": "热水器",
+      "maxWidthMm": 400
+    }
+  },
+  {
+    "id": "REC-WH-03",
+    "type": "single",
+    "category": "热水器",
+    "title": "五口 大水量空气能 预算9000",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "热水器"
+      ],
+      "itemBudget": 9000,
+      "familySize": 5,
+      "preferences": [
+        "energy_saving"
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "热水器",
+        "priceMax": 9000,
+        "minLiterL": 100
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 9000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-WH-04",
+    "type": "single",
+    "category": "热水器",
+    "title": "两口 预算2500 电热安全",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "热水器"
+      ],
+      "itemBudget": 2500,
+      "familySize": 2
+    },
+    "accept": {
+      "filters": {
+        "category": "热水器",
+        "priceMax": 2500,
+        "heatTypeContains": "电热"
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 2500,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-WH-05",
+    "type": "single",
+    "category": "热水器",
+    "title": "预算900 预算不足",
+    "difficulty": "预算不足",
+    "slots": {
+      "categories": [
+        "热水器"
+      ],
+      "itemBudget": 900,
+      "familySize": 3
+    },
+    "accept": {
+      "filters": {
+        "category": "热水器",
+        "priceMax": 900
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 900,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-WH-06",
+    "type": "single",
+    "category": "热水器",
+    "title": "预算4000且预留宽400深300 无完全匹配",
+    "difficulty": "无完全匹配",
+    "slots": {
+      "categories": [
+        "热水器"
+      ],
+      "itemBudget": 4000,
+      "familySize": 4,
+      "installationDimensions": [
+        {
+          "location": "卫生间",
+          "width": 400,
+          "depth": 300,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "expectNoResult": true,
+      "requireNearest": true
+    }
+  },
+  {
+    "id": "REC-TV-01",
+    "type": "single",
+    "category": "电视",
+    "title": "客厅20㎡ 预算4500 50-65英寸",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "电视"
+      ],
+      "itemBudget": 4500,
+      "roomArea": 20
+    },
+    "accept": {
+      "filters": {
+        "category": "电视",
+        "priceMax": 4500,
+        "inchMin": 50,
+        "inchMax": 65
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 4500,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-TV-02",
+    "type": "single",
+    "category": "电视",
+    "title": "预算7000 65英寸以上",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "电视"
+      ],
+      "itemBudget": 7000,
+      "roomArea": 28,
+      "preferences": [
+        "large_capacity"
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "电视",
+        "priceMax": 7000,
+        "inchMin": 65
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 7000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-TV-03",
+    "type": "single",
+    "category": "电视",
+    "title": "电视柜宽1000 尺寸硬约束",
+    "difficulty": "尺寸超限",
+    "slots": {
+      "categories": [
+        "电视"
+      ],
+      "itemBudget": 3000,
+      "roomArea": 15,
+      "installationDimensions": [
+        {
+          "location": "客厅",
+          "width": 1000,
+          "depth": 400,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "电视",
+        "priceMax": 3000,
+        "maxWidthMm": 1000
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 3000,
+      "maxWidthMm": 1000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-TV-04",
+    "type": "single",
+    "category": "电视",
+    "title": "预算1500 预算不足",
+    "difficulty": "预算不足",
+    "slots": {
+      "categories": [
+        "电视"
+      ],
+      "itemBudget": 1500,
+      "roomArea": 12
+    },
+    "accept": {
+      "filters": {
+        "category": "电视",
+        "priceMax": 1500
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 1500,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-TV-05",
+    "type": "single",
+    "category": "电视",
+    "title": "客厅35㎡ 大屏65英寸以上 预算15000",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "电视"
+      ],
+      "itemBudget": 15000,
+      "roomArea": 35,
+      "preferences": [
+        "smart"
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "电视",
+        "priceMax": 15000,
+        "inchMin": 65
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 15000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-TV-06",
+    "type": "single",
+    "category": "电视",
+    "title": "预算2000 小客厅 性价比",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "电视"
+      ],
+      "itemBudget": 2000,
+      "roomArea": 15,
+      "preferences": [
+        "cost_effective"
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "电视",
+        "priceMax": 2000
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 2000,
+      "top1PriceMax": 1500,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-DW-01",
+    "type": "single",
+    "category": "洗碗机",
+    "title": "三口 预算4500 8套以上",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "洗碗机"
+      ],
+      "itemBudget": 4500,
+      "familySize": 3
+    },
+    "accept": {
+      "filters": {
+        "category": "洗碗机",
+        "priceMax": 4500,
+        "minSets": 8
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 4500,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-DW-02",
+    "type": "single",
+    "category": "洗碗机",
+    "title": "预算6000要求噪声≤48 偏好冲突",
+    "difficulty": "偏好冲突",
+    "slots": {
+      "categories": [
+        "洗碗机"
+      ],
+      "itemBudget": 6000,
+      "familySize": 4,
+      "preferences": [
+        "quiet"
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "洗碗机",
+        "priceMax": 6000
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 6000,
+      "prefDimMin": {
+        "dim": "noise",
+        "min": 40
+      },
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-DW-03",
+    "type": "single",
+    "category": "洗碗机",
+    "title": "厨房宽590深580 仅台式可行",
+    "difficulty": "尺寸超限",
+    "slots": {
+      "categories": [
+        "洗碗机"
+      ],
+      "itemBudget": 3000,
+      "familySize": 2,
+      "installationDimensions": [
+        {
+          "location": "厨房",
+          "width": 590,
+          "depth": 580,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "洗碗机",
+        "priceMax": 3000,
+        "maxWidthMm": 590,
+        "maxDepthMm": 580
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 3000,
+      "maxWidthMm": 590,
+      "maxDepthMm": 580,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-DW-04",
+    "type": "single",
+    "category": "洗碗机",
+    "title": "五口 13套以上 预算9000",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "洗碗机"
+      ],
+      "itemBudget": 9000,
+      "familySize": 5
+    },
+    "accept": {
+      "filters": {
+        "category": "洗碗机",
+        "priceMax": 9000,
+        "minSets": 13
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 9000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-DW-05",
+    "type": "single",
+    "category": "洗碗机",
+    "title": "预算2500 预算不足",
+    "difficulty": "预算不足",
+    "slots": {
+      "categories": [
+        "洗碗机"
+      ],
+      "itemBudget": 2500,
+      "familySize": 2
+    },
+    "accept": {
+      "filters": {
+        "category": "洗碗机",
+        "priceMax": 2500
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 2500,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-DW-06",
+    "type": "single",
+    "category": "洗碗机",
+    "title": "嵌入式安装 598mm标准橱柜位",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "洗碗机"
+      ],
+      "itemBudget": 5000,
+      "familySize": 3,
+      "localNeeds": [
+        "embedded_installation"
+      ],
+      "installationDimensions": [
+        {
+          "location": "厨房",
+          "width": 598,
+          "depth": 600,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "洗碗机",
+        "priceMax": 5000,
+        "maxWidthMm": 598,
+        "maxDepthMm": 600,
+        "minSets": 8
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 5000,
+      "maxWidthMm": 598,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-BD-01",
+    "type": "bundle",
+    "title": "主演示场景：青岛三口之家 冰箱+洗衣机 9000元",
+    "difficulty": "主演示场景",
+    "slots": {
+      "categories": [
+        "冰箱",
+        "洗衣机"
+      ],
+      "totalBudget": 9000,
+      "familySize": 3,
+      "preferences": [
+        "energy_saving",
+        "quiet"
+      ],
+      "localNeeds": [
+        "seafood_freezing",
+        "small_space"
+      ],
+      "installationDimensions": [
+        {
+          "location": "厨房",
+          "width": 700,
+          "depth": 650,
+          "unit": "mm"
+        },
+        {
+          "location": "阳台",
+          "width": 640,
+          "depth": 600,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "feasibleMin": 1,
+      "categoriesExact": [
+        "冰箱",
+        "洗衣机"
+      ],
+      "strictTotal": 9000,
+      "itemMaxWidthMm": {
+        "冰箱": 700,
+        "洗衣机": 640
+      },
+      "prefFreezerMin": 80,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-BD-02",
+    "type": "bundle",
+    "title": "冰箱+空调 总预算2600 预算不足无解",
+    "difficulty": "预算不足",
+    "slots": {
+      "categories": [
+        "冰箱",
+        "空调"
+      ],
+      "totalBudget": 2600,
+      "familySize": 3,
+      "installationDimensions": [
+        {
+          "location": "厨房",
+          "width": 800,
+          "depth": 700,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "expectInfeasible": true
+    }
+  },
+  {
+    "id": "REC-BD-03",
+    "type": "bundle",
+    "title": "冰箱+洗衣机+洗碗机 三件套 12000元",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "冰箱",
+        "洗衣机",
+        "洗碗机"
+      ],
+      "totalBudget": 12000,
+      "familySize": 3,
+      "installationDimensions": [
+        {
+          "location": "厨房",
+          "width": 800,
+          "depth": 700,
+          "unit": "mm"
+        },
+        {
+          "location": "阳台",
+          "width": 650,
+          "depth": 620,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "feasibleMin": 1,
+      "categoriesExact": [
+        "冰箱",
+        "洗衣机",
+        "洗碗机"
+      ],
+      "strictTotal": 12000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-BD-04",
+    "type": "bundle",
+    "title": "洗碗机+空调 总预算3000 预算不足无解",
+    "difficulty": "预算不足",
+    "slots": {
+      "categories": [
+        "洗碗机",
+        "空调"
+      ],
+      "totalBudget": 3000,
+      "familySize": 3,
+      "installationDimensions": [
+        {
+          "location": "厨房",
+          "width": 600,
+          "depth": 600,
+          "unit": "mm"
+        },
+        {
+          "location": "客厅",
+          "width": 1500,
+          "depth": 400,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "expectInfeasible": true
+    }
+  },
+  {
+    "id": "REC-BD-05",
+    "type": "bundle",
+    "title": "空调+电视 客厅20㎡ 8000元",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "空调",
+        "电视"
+      ],
+      "totalBudget": 8000,
+      "roomArea": 20,
+      "installationDimensions": [
+        {
+          "location": "客厅",
+          "width": 1500,
+          "depth": 500,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "feasibleMin": 1,
+      "categoriesExact": [
+        "空调",
+        "电视"
+      ],
+      "strictTotal": 8000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-BD-06",
+    "type": "bundle",
+    "title": "冰箱+洗衣机 总预算8000左右（可浮动）",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "冰箱",
+        "洗衣机"
+      ],
+      "totalBudget": 8000,
+      "budgetFloating": true,
+      "familySize": 3,
+      "installationDimensions": [
+        {
+          "location": "厨房",
+          "width": 750,
+          "depth": 650,
+          "unit": "mm"
+        },
+        {
+          "location": "阳台",
+          "width": 640,
+          "depth": 600,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "feasibleMin": 1,
+      "categoriesExact": [
+        "冰箱",
+        "洗衣机"
+      ],
+      "maxTotal": 8800,
+      "allowExceedWithConfirm": true,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-BD-07",
+    "type": "bundle",
+    "title": "节能静音策略存在性 9000元",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "冰箱",
+        "洗衣机"
+      ],
+      "totalBudget": 9000,
+      "familySize": 3,
+      "preferences": [
+        "energy_saving",
+        "quiet"
+      ],
+      "installationDimensions": [
+        {
+          "location": "厨房",
+          "width": 750,
+          "depth": 650,
+          "unit": "mm"
+        },
+        {
+          "location": "阳台",
+          "width": 640,
+          "depth": 600,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "feasibleMin": 2,
+      "strategyPresent": "节能静音",
+      "strictTotal": 9000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-BD-08",
+    "type": "bundle",
+    "title": "性价比组合总价不高于均衡组合",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "冰箱",
+        "洗衣机"
+      ],
+      "totalBudget": 9000,
+      "familySize": 3,
+      "preferences": [
+        "cost_effective"
+      ],
+      "installationDimensions": [
+        {
+          "location": "厨房",
+          "width": 750,
+          "depth": 650,
+          "unit": "mm"
+        },
+        {
+          "location": "阳台",
+          "width": 640,
+          "depth": 600,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "feasibleMin": 2,
+      "valueCheapest": true,
+      "strictTotal": 9000
+    }
+  },
+  {
+    "id": "REC-BD-09",
+    "type": "bundle",
+    "title": "主演示场景宽度缺失时应先追问",
+    "difficulty": "主演示场景",
+    "slots": {
+      "categories": [
+        "冰箱",
+        "洗衣机"
+      ],
+      "totalBudget": 9000,
+      "familySize": 3,
+      "preferences": [
+        "energy_saving",
+        "quiet"
+      ],
+      "localNeeds": [
+        "seafood_freezing",
+        "small_space"
+      ]
+    },
+    "accept": {
+      "expectAskDims": true
+    }
+  },
+  {
+    "id": "REC-BD-10",
+    "type": "bundle",
+    "title": "热水器+洗碗机 7000元",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "热水器",
+        "洗碗机"
+      ],
+      "totalBudget": 7000,
+      "familySize": 3,
+      "installationDimensions": [
+        {
+          "location": "卫生间",
+          "width": 500,
+          "depth": 500,
+          "unit": "mm"
+        },
+        {
+          "location": "厨房",
+          "width": 600,
+          "depth": 600,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "feasibleMin": 1,
+      "categoriesExact": [
+        "热水器",
+        "洗碗机"
+      ],
+      "strictTotal": 7000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-BD-11",
+    "type": "bundle",
+    "title": "电视+冰箱 6000元",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "电视",
+        "冰箱"
+      ],
+      "totalBudget": 6000,
+      "roomArea": 15,
+      "installationDimensions": [
+        {
+          "location": "客厅",
+          "width": 1300,
+          "depth": 400,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "feasibleMin": 1,
+      "categoriesExact": [
+        "电视",
+        "冰箱"
+      ],
+      "strictTotal": 6000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-BD-12",
+    "type": "bundle",
+    "title": "四口之家三品类 15000元",
+    "difficulty": "common",
+    "slots": {
+      "categories": [
+        "冰箱",
+        "洗衣机",
+        "空调"
+      ],
+      "totalBudget": 15000,
+      "familySize": 4,
+      "installationDimensions": [
+        {
+          "location": "厨房",
+          "width": 800,
+          "depth": 700,
+          "unit": "mm"
+        },
+        {
+          "location": "阳台",
+          "width": 650,
+          "depth": 650,
+          "unit": "mm"
+        }
+      ]
+    },
+    "accept": {
+      "feasibleMin": 1,
+      "categoriesExact": [
+        "冰箱",
+        "洗衣机",
+        "空调"
+      ],
+      "strictTotal": 15000,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-RF-07",
+    "type": "single",
+    "category": "冰箱",
+    "title": "实际场景回归：四口 5000～8000元 节能 无尺寸",
+    "difficulty": "预算区间",
+    "slots": {
+      "categories": [
+        "冰箱"
+      ],
+      "itemBudgetRange": {
+        "min": 5000,
+        "max": 8000
+      },
+      "familySize": 4,
+      "preferences": [
+        "energy_saving"
+      ]
+    },
+    "accept": {
+      "filters": {
+        "category": "冰箱",
+        "priceMax": 8000
+      },
+      "requireTop3AnyAcceptable": true,
+      "strictBudget": 8000,
+      "rangeRespect": {
+        "min": 5000,
+        "max": 8000
+      },
+      "allSizePending": true,
+      "requireReasons": true
+    }
+  },
+  {
+    "id": "REC-RF-08",
+    "type": "single",
+    "category": "冰箱",
+    "title": "至少5000元 下限硬约束",
+    "difficulty": "预算区间",
+    "slots": {
+      "categories": [
+        "冰箱"
+      ],
+      "itemBudgetRange": {
+        "min": 5000
+      },
+      "familySize": 4
+    },
+    "accept": {
+      "filters": {
+        "category": "冰箱",
+        "priceMin": 5000
+      },
+      "requireTop3AnyAcceptable": true,
+      "minBudgetFloor": 5000,
+      "requireReasons": true
+    }
+  }
+]

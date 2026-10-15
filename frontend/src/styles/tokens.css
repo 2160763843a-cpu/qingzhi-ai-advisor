@@ -1,0 +1,24 @@
+/* 统一设计变量：青岛海洋感 · 轻量科技 · 企业级清晰 */
+:root {
+  --brand: #087F8C; --brand-strong: #066A75; --accent: #2563EB;
+  --success: #2E8B57; --warning: #B7791F; --danger: #C0392B;
+  --bg: #F3F7FA; --surface: #FFFFFF; --border: #E2EAF0;
+  --text-1: #1F2D3D; --text-2: #44576B; --text-3: #7A8A99;
+  --sp-1: 4px; --sp-2: 8px; --sp-3: 12px; --sp-4: 16px; --sp-5: 24px; --sp-6: 32px;
+  --r-sm: 6px; --r-md: 10px; --r-lg: 14px;
+  --shadow-card: 0 1px 3px rgba(16, 42, 67, 0.08);
+  --shadow-pop: 0 8px 24px rgba(16, 42, 67, 0.14);
+  --max-w: 1120px;
+  --fs-title: 22px; --fs-body: 14px;
+  --btn-h: 34px;
+  --focus: 2px solid #087F8C;
+  --dur: 160ms;
+}
+html { background: var(--bg); }
+body { color: var(--text-1); font-size: var(--fs-body); }
+a, button { transition: color var(--dur), background var(--dur), border-color var(--dur), box-shadow var(--dur); }
+:focus-visible { outline: var(--focus); outline-offset: 2px; border-radius: 4px; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+.sim-badge { display: inline-block; background: #FFF3DC; color: #8A5A00; font-size: 12px; border-radius: var(--r-sm); padding: 1px 8px; }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-lg); box-shadow: var(--shadow-card); }
+.card:hover { box-shadow: var(--shadow-pop); }

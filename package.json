@@ -1,0 +1,38 @@
+{
+  "name": "qingzhi-ai-advisor",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "青智家 AI 顾问 - 面向青岛智慧家电消费场景的智能客服与营销转化平台（演示版）",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "vite",
+    "build": "vite build",
+    "type-check": "vue-tsc --noEmit",
+    "data:generate": "node scripts/generate-products.mjs",
+    "data:validate": "node scripts/validate-data.mjs",
+    "test:recommend": "node scripts/run-recommend-eval.mjs",
+    "test:weights": "node scripts/test-weights.mjs",
+    "test:budget": "node scripts/test-budget-semantics.mjs",
+    "test:empty": "node scripts/test-empty-results.mjs",
+    "test:states": "node scripts/test-dialogue-states.mjs",
+    "test:holdout": "node scripts/test-holdout.mjs",
+    "test:budget-cmp": "node scripts/test-budget-comparators.mjs",
+    "test:runtime-smoke": "node scripts/test-runtime-smoke.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "element-plus": "^2.9.3",
+    "express": "^4.21.2",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "typescript": "^5.7.3",
+    "vite": "^6.0.7",
+    "vue-tsc": "^2.2.0"
+  }
+}

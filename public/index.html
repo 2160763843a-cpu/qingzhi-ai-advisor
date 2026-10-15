@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>青智家 AI 顾问</title>
+<style>
+  :root { --brand: #0b6e6e; --ink: #1f2d3d; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: system-ui, "PingFang SC", "Microsoft YaHei", sans-serif; background: #f4f7f9; color: var(--ink); }
+  .banner { background: #fff7e6; color: #8a5a00; text-align: center; padding: 8px 12px; font-size: 13px; }
+  header { background: linear-gradient(135deg, #0b6e6e, #128f7e); color: #fff; padding: 28px 16px; text-align: center; }
+  h1 { margin: 0 0 6px; font-size: 26px; letter-spacing: 1px; }
+  .sub { opacity: .92; font-size: 14px; }
+  .status { display: inline-block; margin-top: 10px; padding: 3px 12px; border-radius: 999px; background: rgba(255,255,255,.22); font-size: 12px; }
+  main { max-width: 760px; margin: 20px auto; padding: 0 16px; }
+  .chat-card { background: #fff; border-radius: 12px; box-shadow: 0 2px 10px rgba(16,42,67,.08); padding: 20px; }
+  .bubble { background: #f0f7f7; border-radius: 10px; padding: 12px 14px; line-height: 1.8; font-size: 14px; }
+  .quick { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; }
+  .quick button { border: 1px solid #bcd8d5; background: #fff; color: var(--brand); padding: 8px 14px; border-radius: 999px; font-size: 14px; cursor: pointer; }
+  .quick button:hover { background: #eaf5f4; }
+  .meta { margin-top: 16px; font-size: 12px; color: #7a8a99; }
+  footer { text-align: center; color: #9aa8b5; font-size: 12px; padding: 18px 0 26px; line-height: 1.8; }
+</style>
+</head>
+<body>
+  <div class="banner">模拟数据声明：本站所有商品、价格、用户及经营数据均为模拟数据，仅供赛题演示使用</div>
+  <header>
+    <h1>青智家 AI 顾问</h1>
+    <div class="sub">面向青岛智慧家电消费场景的智能客服与营销转化平台（演示版）</div>
+    <div class="status" id="status">服务状态检测中...</div>
+  </header>
+  <main>
+    <div class="chat-card">
+      <div class="bubble">
+        您好，我是青智家 AI 顾问。告诉我您的需求，我会根据预算、家庭人数、房屋面积、空间尺寸、节能与静音偏好等条件，
+        为您推荐匹配的智慧家电，并说明推荐理由、不匹配点与数据依据。对话能力将在后续开发轮次接入。
+      </div>
+      <div class="quick">
+        <button type="button">我想买空调</button>
+        <button type="button">帮我对比几款</button>
+        <button type="button">空调不制冷</button>
+        <button type="button">我要投诉建议</button>
+      </div>
+      <div class="meta" id="meta">商品库加载中...</div>
+    </div>
+  </main>
+  <footer>咨询 — 需求识别 — 商品推荐 — 对比决策 — 线索沉淀 — 运营分析<br>AI 智能客服与营销转化应用 · 赛题演示项目</footer>
+  <script>
+    fetch('/api/health').then(r => r.json()).then(() => {
+      document.getElementById('status').textContent = '服务运行中 (production)';
+    }).catch(() => {
+      document.getElementById('status').textContent = '服务异常';
+    });
+    fetch('/api/products').then(r => r.json()).then(list => {
+      document.getElementById('meta').textContent = '当前商品库已接入 ' + list.length + ' 款模拟商品，覆盖空调、冰箱、洗衣机品类';
+    }).catch(() => {
+      document.getElementById('meta').textContent = '商品库暂不可用';
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "SF-01",
+    "text": "我家燃气热水器闻到燃气味",
+    "expect": "emergency",
+    "riskType": "gas",
+    "category": "热水器"
+  },
+  {
+    "id": "SF-02",
+    "text": "厨房里好像有煤气味",
+    "expect": "emergency",
+    "riskType": "gas",
+    "category": null
+  },
+  {
+    "id": "SF-03",
+    "text": "冰箱后面有股臭鸡蛋味",
+    "expect": "emergency",
+    "riskType": "gas",
+    "category": "冰箱"
+  },
+  {
+    "id": "SF-04",
+    "text": "燃气管好像漏气了",
+    "expect": "emergency",
+    "riskType": "gas",
+    "category": "热水器"
+  },
+  {
+    "id": "SF-05",
+    "text": "家里燃气泄漏了怎么办",
+    "expect": "emergency",
+    "riskType": "gas",
+    "category": "热水器"
+  },
+  {
+    "id": "SF-06",
+    "text": "燃气报警器响了",
+    "expect": "emergency",
+    "riskType": "gas",
+    "category": "热水器"
+  },
+  {
+    "id": "SF-07",
+    "text": "一氧化碳报警器一直响",
+    "expect": "emergency",
+    "riskType": "gas",
+    "category": "热水器"
+  },
+  {
+    "id": "SF-08",
+    "text": "洗衣机漏电了，麻手",
+    "expect": "emergency",
+    "riskType": "electric",
+    "category": "洗衣机"
+  },
+  {
+    "id": "SF-09",
+    "text": "热水器外壳带电",
+    "expect": "emergency",
+    "riskType": "electric",
+    "category": "热水器"
+  },
+  {
+    "id": "SF-10",
+    "text": "插头一直打火",
+    "expect": "emergency",
+    "riskType": "electric",
+    "category": null
+  },
+  {
+    "id": "SF-11",
+    "text": "电线发热发烫怎么办",
+    "expect": "emergency",
+    "riskType": "electric",
+    "category": null
+  },
+  {
+    "id": "SF-12",
+    "text": "空调进水后通电了",
+    "expect": "emergency",
+    "riskType": "electric",
+    "category": "空调"
+  },
+  {
+    "id": "SF-13",
+    "text": "电视冒烟了",
+    "expect": "emergency",
+    "riskType": "fire",
+    "category": "电视"
+  },
+  {
+    "id": "SF-14",
+    "text": "微波炉好像起火了",
+    "expect": "emergency",
+    "riskType": "fire",
+    "category": null
+  },
+  {
+    "id": "SF-15",
+    "text": "插座冒火花",
+    "expect": "emergency",
+    "riskType": "fire",
+    "category": null
+  },
+  {
+    "id": "SF-16",
+    "text": "冰箱后面冒烟还有焦味",
+    "expect": "emergency",
+    "riskType": "fire",
+    "category": "冰箱"
+  },
+  {
+    "id": "SF-17",
+    "text": "洗衣机有糊味了",
+    "expect": "emergency",
+    "riskType": "fire",
+    "category": "洗衣机"
+  },
+  {
+    "id": "SF-18",
+    "text": "烤箱外壳温度异常升高",
+    "expect": "emergency",
+    "riskType": "fire",
+    "category": null
+  },
+  {
+    "id": "SF-19",
+    "text": "热水器爆燃了",
+    "expect": "emergency",
+    "riskType": "other",
+    "category": "热水器"
+  },
+  {
+    "id": "SF-20",
+    "text": "洗衣机严重漏水而且接近电源",
+    "expect": "emergency",
+    "riskType": "other",
+    "category": "洗衣机"
+  },
+  {
+    "id": "SF-21",
+    "text": "空调有异常爆响",
+    "expect": "emergency",
+    "riskType": "other",
+    "category": "空调"
+  },
+  {
+    "id": "SF-22",
+    "text": "设备外壳严重变形还漏电",
+    "expect": "emergency",
+    "riskType": "electric",
+    "category": null
+  },
+  {
+    "id": "SF-23",
+    "text": "没有燃气味，只是点火有点慢",
+    "expect": "none",
+    "riskType": null,
+    "category": "热水器"
+  },
+  {
+    "id": "SF-24",
+    "text": "刚才有燃气味，现在还有",
+    "expect": "emergency",
+    "riskType": "gas",
+    "category": "热水器"
+  },
+  {
+    "id": "SF-25",
+    "text": "怎么判断有没有燃气泄漏",
+    "expect": "caution",
+    "riskType": "gas",
+    "category": "热水器"
+  },
+  {
+    "id": "SF-26",
+    "text": "如何知道会不会漏电",
+    "expect": "caution",
+    "riskType": "electric",
+    "category": null
+  },
+  {
+    "id": "SF-27",
+    "text": "没闻到焦味，就是制冷不太好",
+    "expect": "none",
+    "riskType": null,
+    "category": "冰箱"
+  },
+  {
+    "id": "SF-28",
+    "text": "空调用了三年不制冷",
+    "expect": "none",
+    "riskType": null,
+    "category": "空调"
+  },
+  {
+    "id": "SF-29",
+    "text": "洗衣机脱水的时候声音特别大",
+    "expect": "none",
+    "riskType": null,
+    "category": "洗衣机"
+  },
+  {
+    "id": "SF-30",
+    "text": "冰箱冷藏室结冰了咋整",
+    "expect": "none",
+    "riskType": null,
+    "category": "冰箱"
+  },
+  {
+    "id": "SF-31",
+    "text": "洗碗机不进水了",
+    "expect": "none",
+    "riskType": null,
+    "category": "洗碗机"
+  },
+  {
+    "id": "SF-32",
+    "text": "电视有点花屏",
+    "expect": "none",
+    "riskType": null,
+    "category": "电视"
+  }
+]

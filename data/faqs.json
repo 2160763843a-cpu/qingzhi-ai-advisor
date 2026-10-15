@@ -1,0 +1,1038 @@
+[
+  {
+    "id": "FAQ-BUY-01",
+    "category": "售前选购",
+    "applicableCategories": [
+      "冰箱"
+    ],
+    "question": "家里海鲜多，买冰箱应该重点看什么？",
+    "keywords": [
+      "海鲜",
+      "冷冻",
+      "储存",
+      "海产品",
+      "冷冻室"
+    ],
+    "answer": "建议重点看冷冻室容积与深冷速冻能力：沿海家庭优先选择冷冻室120L以上、带深冷速冻功能的机型，可缩短冻结时间、更好保留海鲜鲜度（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-BUY-02",
+    "category": "售前选购",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "预算8000元买冰箱加洗衣机够吗？",
+    "keywords": [
+      "预算",
+      "组合购买",
+      "两件",
+      "8000"
+    ],
+    "answer": "可以覆盖主流中端配置：冰箱3500-4500元、洗衣机3000-3800元档位选择较多，可按品类分配预算后分别挑选，组合套餐通常还有模拟优惠（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-BUY-03",
+    "category": "售前选购",
+    "applicableCategories": [
+      "洗衣机"
+    ],
+    "question": "滚筒洗衣机和波轮洗衣机怎么选？",
+    "keywords": [
+      "滚筒",
+      "波轮",
+      "区别",
+      "怎么选"
+    ],
+    "answer": "滚筒磨损小、可洗羊毛类衣物、可嵌入；波轮价格低、洗涤时间短、取衣不用弯腰。预算充足优先滚筒，追求性价比和快捷选波轮（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-BUY-04",
+    "category": "售前选购",
+    "applicableCategories": [
+      "空调"
+    ],
+    "question": "卧室买空调1匹还是1.5匹？",
+    "keywords": [
+      "1匹",
+      "1.5匹",
+      "卧室",
+      "匹数"
+    ],
+    "answer": "主要看房间面积：10-15㎡选1匹或大1匹，14-20㎡建议1.5匹，顶楼或西晒可适当加大。匹数偏小会制冷慢且更费电（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-BUY-05",
+    "category": "售前选购",
+    "applicableCategories": [
+      "洗碗机"
+    ],
+    "question": "三口之家买洗碗机选几套的？",
+    "keywords": [
+      "套数",
+      "洗碗机",
+      "三口",
+      "容量"
+    ],
+    "answer": "3-5口之家建议10-13套：可放下锅具和多数餐盘；厨房位置紧张可选8套或台式4套，灵活取舍（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-BUY-06",
+    "category": "售前选购",
+    "applicableCategories": [
+      "电视"
+    ],
+    "question": "客厅3米观看距离买多大电视？",
+    "keywords": [
+      "观看距离",
+      "尺寸",
+      "客厅",
+      "多大"
+    ],
+    "answer": "观看距离3米左右建议65英寸；2.5米选55英寸，3.5米以上可选75英寸。距离过近易疲劳（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-BUY-07",
+    "category": "售前选购",
+    "applicableCategories": [
+      "热水器"
+    ],
+    "question": "燃气热水器和电热水器哪个更省？",
+    "keywords": [
+      "燃气",
+      "电热",
+      "省电",
+      "费用",
+      "对比"
+    ],
+    "answer": "燃气即开即用、适合多点供水，但需通风安装；电热水器保温能耗略高但安装简单。三口之家连续洗浴多选燃气更顺手（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-BUY-08",
+    "category": "售前选购",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "能效等级差一级一年差多少电费？",
+    "keywords": [
+      "能效",
+      "电费",
+      "一级",
+      "差多少"
+    ],
+    "answer": "以冰箱为例，同容量一级比二级全年约省几十至上百元电费（模拟测算口径），空调与洗衣机会随使用时长放大差异，长期使用建议优先高能效（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-PARA-01",
+    "category": "产品参数",
+    "applicableCategories": [
+      "冰箱"
+    ],
+    "question": "冰箱容积怎么换算成几口人使用？",
+    "keywords": [
+      "容积",
+      "升",
+      "几口人",
+      "容量"
+    ],
+    "answer": "常见口径为人均60-80L再加100L基础量：三口之家选280-340L，四口以上建议400L以上（模拟口径，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-PARA-02",
+    "category": "产品参数",
+    "applicableCategories": [
+      "空调"
+    ],
+    "question": "空调匹数对应多大面积？",
+    "keywords": [
+      "匹数",
+      "面积",
+      "对应"
+    ],
+    "answer": "常用对应：1匹约10-15㎡，1.5匹约14-20㎡，2匹约22-32㎡，3匹约30-45㎡；层高、西晒、密封性会有浮动（模拟口径，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-PARA-03",
+    "category": "产品参数",
+    "applicableCategories": [
+      "洗衣机"
+    ],
+    "question": "洗涤容量10公斤能洗多少衣服？",
+    "keywords": [
+      "10公斤",
+      "容量",
+      "能洗多少"
+    ],
+    "answer": "10kg约可一次洗涤三口之家一周的常规衣物或一套四件套加被套，羽绒服建议单件洗涤（模拟口径，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-PARA-04",
+    "category": "产品参数",
+    "applicableCategories": [
+      "洗碗机"
+    ],
+    "question": "洗碗机13套是什么概念？",
+    "keywords": [
+      "13套",
+      "套数",
+      "概念"
+    ],
+    "answer": "13套指一次可洗约13套餐具含锅具，对应8-10个盘子、8个碗、杯具及炊具的量，聚餐基本无需手洗（模拟口径，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-PARA-05",
+    "category": "产品参数",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "商品页的噪声dB是什么口径？",
+    "keywords": [
+      "噪音",
+      "分贝",
+      "dB",
+      "口径"
+    ],
+    "answer": "本站展示标准运行噪声与最大噪声两个数值（模拟数据）：卧室场景建议标准噪声不高于40dB，厨房电器不高于55dB更舒适（模拟口径，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-PARA-06",
+    "category": "产品参数",
+    "applicableCategories": [
+      "电视"
+    ],
+    "question": "4K和8K电视实际差别大吗？",
+    "keywords": [
+      "4K",
+      "8K",
+      "分辨率",
+      "差别"
+    ],
+    "answer": "同尺寸下8K物理像素是4K的四倍，但当前8K片源较少，日常观看4K已很细腻；预算充足且追求大尺寸可考虑8K（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-DEL-01",
+    "category": "配送",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "下单后多久能送到？",
+    "keywords": [
+      "多久",
+      "送货",
+      "时效",
+      "几天",
+      "送到",
+      "多长时间"
+    ],
+    "answer": "模拟口径：市区通常48小时内送达，郊县3-5天，预售商品以页面标注为准（模拟时效，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-DEL-02",
+    "category": "配送",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "大件家电可以送上门吗？",
+    "keywords": [
+      "送上门",
+      "大件",
+      "上楼"
+    ],
+    "answer": "模拟口径：大件支持送货到家，是否上楼及入室以订单页标注为准，超重件建议提前确认电梯与门宽（模拟政策，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-DEL-03",
+    "category": "配送",
+    "applicableCategories": [
+      "冰箱",
+      "洗衣机"
+    ],
+    "question": "冰箱送来后能马上通电吗？",
+    "keywords": [
+      "静置",
+      "通电",
+      "马上通电",
+      "多久通电",
+      "搬运"
+    ],
+    "answer": "建议冰箱静置2-4小时后再通电，利于压缩机保护（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-DEL-04",
+    "category": "配送",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "可以指定送货时间吗？",
+    "keywords": [
+      "指定送货时间",
+      "预约时间",
+      "指定时间",
+      "时间段"
+    ],
+    "answer": "模拟口径：支持预约时间段的商品可在订单中选择2小时档期，偏远区域以实际调度为准（模拟政策，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-DEL-05",
+    "category": "配送",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "外包装需要保留多久？",
+    "keywords": [
+      "包装",
+      "保留",
+      "退货"
+    ],
+    "answer": "建议保留外包装至确认商品无质量问题后再处理，退换时原包装可降低运输损伤风险（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-INST-01",
+    "category": "安装",
+    "applicableCategories": [
+      "空调"
+    ],
+    "question": "空调安装收费吗？",
+    "keywords": [
+      "安装",
+      "收费",
+      "费用",
+      "辅材"
+    ],
+    "answer": "模拟口径：基础安装免费，支架、加长管等辅材按标准另计，安装前师傅会出示价目（模拟政策，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-INST-02",
+    "category": "安装",
+    "applicableCategories": [
+      "洗碗机"
+    ],
+    "question": "嵌入式洗碗机安装需要提前准备什么？",
+    "keywords": [
+      "嵌入式",
+      "准备",
+      "橱柜",
+      "开孔"
+    ],
+    "answer": "需确认橱柜开孔尺寸与进排水、插座位置：常见宽度598mm、高度760-820mm，插座避开机器正后方（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-INST-03",
+    "category": "安装",
+    "applicableCategories": [
+      "热水器"
+    ],
+    "question": "燃气热水器安装有什么要求？",
+    "keywords": [
+      "燃气",
+      "安装",
+      "通风",
+      "要求"
+    ],
+    "answer": "必须由持证专业人员安装，严禁安装在浴室等密闭空间，需保证通风并按规范排放烟气（模拟指引，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "medium"
+  },
+  {
+    "id": "FAQ-INST-04",
+    "category": "安装",
+    "applicableCategories": [
+      "洗衣机"
+    ],
+    "question": "洗衣机放在阳台要注意什么？",
+    "keywords": [
+      "阳台",
+      "洗衣机",
+      "注意"
+    ],
+    "answer": "注意防晒防冻与地漏排水：建议避免暴晒位置，冬季有冻结风险区域需保温，进排水管长度预留合适（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-INST-05",
+    "category": "安装",
+    "applicableCategories": [
+      "电视"
+    ],
+    "question": "电视壁挂安装对墙体有要求吗？",
+    "keywords": [
+      "壁挂",
+      "墙体",
+      "承重",
+      "要求"
+    ],
+    "answer": "需承重墙或满足承重要求的实体墙，空心墙需特殊加固；挂架规格应匹配电视尺寸与重量（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "medium"
+  },
+  {
+    "id": "FAQ-INST-06",
+    "category": "安装",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "可以自己安装吗？",
+    "keywords": [
+      "自己安装",
+      "自行",
+      "安装"
+    ],
+    "answer": "插电即用类可自行开箱，涉及燃气、承重壁挂、固定布线的安装建议由专业人员完成，避免安全与保修风险（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "medium"
+  },
+  {
+    "id": "FAQ-USE-01",
+    "category": "使用方法",
+    "applicableCategories": [
+      "空调"
+    ],
+    "question": "空调开多少度比较合适？",
+    "keywords": [
+      "温度",
+      "几度",
+      "多少度",
+      "制冷",
+      "合适",
+      "省电"
+    ],
+    "answer": "制冷建议26℃左右，与室外温差不宜超过8-10℃，既舒适又省电（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-USE-02",
+    "category": "使用方法",
+    "applicableCategories": [
+      "洗衣机"
+    ],
+    "question": "洗衣机脱水时晃动很大正常吗？",
+    "keywords": [
+      "晃动",
+      "脱水",
+      "震动",
+      "正常吗"
+    ],
+    "answer": "少量晃动正常；若剧烈移位多因衣物偏载或未拆除运输螺栓，请重新分布衣物或检查螺栓（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "medium"
+  },
+  {
+    "id": "FAQ-USE-03",
+    "category": "使用方法",
+    "applicableCategories": [
+      "洗碗机"
+    ],
+    "question": "洗碗机餐具怎么摆放洗得更干净？",
+    "keywords": [
+      "摆放",
+      "碗篮",
+      "怎么放"
+    ],
+    "answer": "碗口朝下倾斜摆放、避免重叠遮挡喷淋；刀具有刃面朝下，小件放入篮筐防脱落（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-USE-04",
+    "category": "使用方法",
+    "applicableCategories": [
+      "冰箱"
+    ],
+    "question": "冰箱温度调到多少合适？",
+    "keywords": [
+      "温度",
+      "调",
+      "冷藏",
+      "冷冻"
+    ],
+    "answer": "建议冷藏4℃左右、冷冻-18℃；夏季可适当调低档位，冬季调高，减少能耗（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-USE-05",
+    "category": "使用方法",
+    "applicableCategories": [
+      "热水器"
+    ],
+    "question": "电热水器一直插电费电吗？",
+    "keywords": [
+      "插电",
+      "费电",
+      "保温",
+      "一直开着"
+    ],
+    "answer": "保温日耗电约1度上下（模拟口径）：高频使用保持通电更划算，长期外出建议断电（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-USE-06",
+    "category": "使用方法",
+    "applicableCategories": [
+      "电视"
+    ],
+    "question": "电视怎么开启低蓝光护眼？",
+    "keywords": [
+      "低蓝光",
+      "护眼",
+      "设置"
+    ],
+    "answer": "在设置-显示（画面）模式中选择护眼/低蓝光模式，或开启定时提醒休息（模拟路径，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-USE-07",
+    "category": "使用方法",
+    "applicableCategories": [
+      "洗衣机",
+      "热水器",
+      "电视"
+    ],
+    "question": "家电长时间不用需要断电吗？",
+    "keywords": [
+      "长时间",
+      "断电",
+      "不用"
+    ],
+    "answer": "建议断电并排空积水（洗衣机、热水器），电视等拔掉插头；重新使用前先检查外观与线路（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "medium"
+  },
+  {
+    "id": "FAQ-USE-08",
+    "category": "使用方法",
+    "applicableCategories": [
+      "洗衣机",
+      "热水器"
+    ],
+    "question": "使用中插座发热冒烟怎么办？",
+    "keywords": [
+      "冒烟",
+      "插座",
+      "发热",
+      "烧焦"
+    ],
+    "answer": "请立即停止使用并切断电源总闸，不要自行拆机检修，尽快联系专业电工或维修人员处理（安全指引，模拟演示）。",
+    "sourceNote": "模拟安全知识条目，仅供演示",
+    "safetyLevel": "high"
+  },
+  {
+    "id": "FAQ-WAR-01",
+    "category": "保修",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "保修期从什么时候开始算？",
+    "keywords": [
+      "保修期",
+      "开始",
+      "计算",
+      "起算"
+    ],
+    "answer": "模拟口径：自开具发票或签收次日起算，整机与主要部件保修期不同，以商品页售后说明为准（模拟政策，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-WAR-02",
+    "category": "保修",
+    "applicableCategories": [
+      "空调"
+    ],
+    "question": "空调压缩机保修多久？",
+    "keywords": [
+      "压缩机",
+      "保修",
+      "几年"
+    ],
+    "answer": "模拟口径：压缩机等核心部件保修6-10年不等，具体以商品页售后说明与保修卡为准（模拟政策，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-WAR-03",
+    "category": "保修",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "自行拆机影响保修吗？",
+    "keywords": [
+      "拆机",
+      "自行",
+      "影响",
+      "保修"
+    ],
+    "answer": "模拟口径：非授权拆修通常影响保修权益，涉及内部检修请通过官方或授权渠道（模拟政策，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "medium"
+  },
+  {
+    "id": "FAQ-WAR-04",
+    "category": "保修",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "保修期内上门收费吗？",
+    "keywords": [
+      "上门",
+      "收费",
+      "保修期内"
+    ],
+    "answer": "模拟口径：保修期内质量问题上门检测免费，人为损坏或超出保修范围按标准收费（模拟政策，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-WAR-05",
+    "category": "保修",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "保修凭证丢了怎么办？",
+    "keywords": [
+      "凭证",
+      "发票",
+      "丢失",
+      "保修"
+    ],
+    "answer": "可联系客服凭订单号与序列号查询购买记录（模拟口径），建议截图留存电子凭证（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-WAR-06",
+    "category": "保修",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "延保服务值得买吗？",
+    "keywords": [
+      "延保",
+      "值得",
+      "延长保修"
+    ],
+    "answer": "使用频率高、维修成本高的品类（空调、洗衣机、洗碗机）延保性价比相对更高，按预算决定（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-RET-01",
+    "category": "退换",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "家电支持七天无理由退货吗？",
+    "keywords": [
+      "七天",
+      "无理由",
+      "退货"
+    ],
+    "answer": "模拟口径：未使用且包装完好的商品支持7天无理由退货，已安装的燃气、嵌入式品类除外（模拟政策，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-RET-02",
+    "category": "退换",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "拆了包装还能退吗？",
+    "keywords": [
+      "拆包",
+      "退货",
+      "包装"
+    ],
+    "answer": "模拟口径：开箱检验不影响退货；若已安装使用并影响二次销售，可能收取折损费用，具体以页面规则为准（模拟政策，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-RET-03",
+    "category": "退换",
+    "applicableCategories": [
+      "冰箱",
+      "洗衣机"
+    ],
+    "question": "退货运费谁承担？",
+    "keywords": [
+      "运费",
+      "谁承担",
+      "退货运费"
+    ],
+    "answer": "模拟口径：质量问题退换运费由商家承担，无理由退货通常由买家承担大件物流费（模拟政策，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-RET-04",
+    "category": "退换",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "收到的商品外观有损伤怎么办？",
+    "keywords": [
+      "外观",
+      "损伤",
+      "破损",
+      "拒收"
+    ],
+    "answer": "可当场拒收或签收时备注损伤并拍照留证，随后联系客服换货（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-RET-05",
+    "category": "退换",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "以旧换新怎么操作？",
+    "keywords": [
+      "以旧换新",
+      "旧机",
+      "回收",
+      "抵扣",
+      "旧家电"
+    ],
+    "answer": "模拟口径：支持旧机抵扣的活动商品可在线估价、上门拆旧、同步送达新机（模拟流程，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-REP-01",
+    "category": "维修",
+    "applicableCategories": [
+      "冰箱"
+    ],
+    "question": "冰箱不制冷了怎么办？",
+    "keywords": [
+      "不制冷",
+      "冷藏",
+      "冷冻",
+      "不凉"
+    ],
+    "answer": "先确认通电与温控档位、检查门封是否严密、观察压缩机是否运转；若仍不制冷建议报修检测（模拟指引，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-REP-02",
+    "category": "维修",
+    "applicableCategories": [
+      "洗衣机"
+    ],
+    "question": "洗衣机不脱水是什么原因？",
+    "keywords": [
+      "不脱水",
+      "脱水",
+      "脱不干",
+      "不干",
+      "原因"
+    ],
+    "answer": "常见原因：盖未合严、衣物偏载触发保护、排水不畅或程序选错；逐项排除后仍异常建议报修（模拟指引，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-REP-03",
+    "category": "维修",
+    "applicableCategories": [
+      "洗衣机",
+      "洗碗机"
+    ],
+    "question": "机器通电后漏电麻手怎么办？",
+    "keywords": [
+      "漏电",
+      "麻手",
+      "触电",
+      "带电"
+    ],
+    "answer": "请立即停止使用并切断电源，不要自行拆机检修，尽快联系专业维修人员检查接地与线路（安全指引，模拟演示）。",
+    "sourceNote": "模拟安全知识条目，仅供演示",
+    "safetyLevel": "high"
+  },
+  {
+    "id": "FAQ-REP-04",
+    "category": "维修",
+    "applicableCategories": [
+      "热水器"
+    ],
+    "question": "燃气热水器闻到燃气味怎么办？",
+    "keywords": [
+      "燃气味",
+      "泄漏",
+      "燃气",
+      "异味"
+    ],
+    "answer": "请立即停止使用并关闭燃气阀门，开窗通风，勿开关电器与明火，撤离后联系燃气公司与专业人员处理（安全指引，模拟演示）。",
+    "sourceNote": "模拟安全知识条目，仅供演示",
+    "safetyLevel": "high"
+  },
+  {
+    "id": "FAQ-REP-05",
+    "category": "维修",
+    "applicableCategories": [
+      "电视"
+    ],
+    "question": "电视冒烟或有烧焦味怎么办？",
+    "keywords": [
+      "冒烟",
+      "烧焦",
+      "异味",
+      "电视"
+    ],
+    "answer": "请立即停止使用并拔掉电源，远离设备并保持通风，不要自行拆机，尽快联系专业维修人员处理（安全指引，模拟演示）。",
+    "sourceNote": "模拟安全知识条目，仅供演示",
+    "safetyLevel": "high"
+  },
+  {
+    "id": "FAQ-REP-06",
+    "category": "维修",
+    "applicableCategories": [
+      "空调"
+    ],
+    "question": "空调开机有烧焦异味正常吗？",
+    "keywords": [
+      "异味",
+      "烧焦",
+      "空调",
+      "开机"
+    ],
+    "answer": "新机初次使用可能有轻微暖塑味并很快消散；若出现持续烧焦味请立即停止使用并断电，联系专业维修人员检测（模拟指引，仅供演示）。",
+    "sourceNote": "模拟安全知识条目，仅供演示",
+    "safetyLevel": "high"
+  },
+  {
+    "id": "FAQ-REP-07",
+    "category": "维修",
+    "applicableCategories": [
+      "洗碗机"
+    ],
+    "question": "洗碗机不进水怎么排查？",
+    "keywords": [
+      "不进水",
+      "进水",
+      "水龙头",
+      "门",
+      "出水"
+    ],
+    "answer": "检查水龙头是否开启、进水管是否弯折、门是否关严；仍不进水可报修检测进水阀（模拟指引，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-REP-08",
+    "category": "维修",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "维修大概多久能上门？",
+    "keywords": [
+      "上门",
+      "多久",
+      "维修时效"
+    ],
+    "answer": "模拟口径：市区一般24-48小时内上门，偏远区域3-5天，安全类故障优先调度（模拟时效，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-CARE-01",
+    "category": "清洗保养",
+    "applicableCategories": [
+      "空调"
+    ],
+    "question": "空调滤网多久清洗一次？",
+    "keywords": [
+      "滤网",
+      "清洗",
+      "多久"
+    ],
+    "answer": "建议每1-2个月清洗一次滤网，换季深度保养一次，可改善风量与能耗（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-CARE-02",
+    "category": "清洗保养",
+    "applicableCategories": [
+      "洗衣机"
+    ],
+    "question": "洗衣机筒自洁怎么用？",
+    "keywords": [
+      "筒自洁",
+      "清洁",
+      "怎么用"
+    ],
+    "answer": "空机运行筒自洁程序，建议每月一次；污垢较重可用专用清洁剂加强（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-CARE-03",
+    "category": "清洗保养",
+    "applicableCategories": [
+      "冰箱"
+    ],
+    "question": "冰箱多久断电清理一次？",
+    "keywords": [
+      "清理",
+      "清洗",
+      "断电",
+      "除霜",
+      "多久",
+      "清洁"
+    ],
+    "answer": "建议每2-3个月清空擦洗一次，密封条缝隙可用软布清洁；风冷机型无需手动除霜（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-CARE-04",
+    "category": "清洗保养",
+    "applicableCategories": [
+      "洗碗机"
+    ],
+    "question": "洗碗机需要加洗碗盐吗？",
+    "keywords": [
+      "洗碗盐",
+      "软水",
+      "水垢"
+    ],
+    "answer": "水质较硬地区建议添加洗碗盐并定期补充亮碟剂，可减少水垢与水痕（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-CARE-05",
+    "category": "清洗保养",
+    "applicableCategories": [
+      "热水器"
+    ],
+    "question": "热水器镁棒多久换一次？",
+    "keywords": [
+      "镁棒",
+      "更换",
+      "周期"
+    ],
+    "answer": "模拟口径：每1-2年检查更换一次镁棒并排污，水质硬地区周期更短，可预约上门保养（模拟建议，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-CMPL-01",
+    "category": "投诉建议",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "送货延迟了怎么投诉？",
+    "keywords": [
+      "送货延迟",
+      "投诉",
+      "慢"
+    ],
+    "answer": "抱歉给您带来不便，您可直接在本站发起投诉建议，我们会记录详情并跟进处理，也可联系客服催单（模拟流程，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-CMPL-02",
+    "category": "投诉建议",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "安装人员乱收费怎么反映？",
+    "keywords": [
+      "乱收费",
+      "安装",
+      "反映"
+    ],
+    "answer": "请保留收费凭证与价目对照，通过投诉建议入口提交详情，核实后按规则处理差额（模拟流程，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-CMPL-03",
+    "category": "投诉建议",
+    "applicableCategories": [
+      "全品类"
+    ],
+    "question": "投诉后多久有回复？",
+    "keywords": [
+      "投诉",
+      "回复",
+      "时效",
+      "没人接",
+      "多久回复",
+      "响应"
+    ],
+    "answer": "模拟口径：投诉提交后24小时内首次响应，3个工作日内反馈处理方案（模拟时效，仅供演示）。",
+    "sourceNote": "模拟知识库整理，仅供演示",
+    "safetyLevel": "low"
+  },
+  {
+    "id": "FAQ-REP-09",
+    "category": "维修",
+    "applicableCategories": [
+      "空调"
+    ],
+    "question": "空调不制冷怎么排查",
+    "keywords": [
+      "不制冷",
+      "制冷差",
+      "吹热风",
+      "制冷效果差",
+      "制冷效果不好",
+      "制冷不好"
+    ],
+    "answer": "请按三步自检：1) 确认模式为制冷且温度设定低于室温；2) 清洗滤网后观察风量；3) 检查外机是否运转；若仍不制冷建议报修检测制冷剂与压缩机（模拟指引，仅供演示）",
+    "sourceNote": "模拟安全与维修知识条目，仅供演示",
+    "safetyLevel": "low"
+  }
+]

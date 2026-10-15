@@ -1,0 +1,214 @@
+[
+  {
+    "id": "TD-PRE-01", "scenario": "主演示场景-多品类组合购买", "intent": "pre_sales", "title": "青岛三口之家8000元冰箱+洗衣机组合购买",
+    "turns": [
+      { "seq": 1, "user": "我们一家三口在青岛，总预算8000元，想买冰箱和洗衣机，厨房和阳台空间有限，海鲜多，要求节能静音", "expectIntent": "pre_sales", "expectSlots": { "budgetTotal": 8000, "familySize": 3, "categories": ["冰箱", "洗衣机"], "energyPriority": 1, "noisePriority": 1, "seafoodStorage": 1 }, "expectFollowup": true, "expectPath": "ask_space_size", "expectCategory": ["冰箱", "洗衣机"] },
+      { "seq": 2, "user": "厨房宽750深650，阳台宽680深600", "expectIntent": "pre_sales", "expectSlots": { "spaceMm": { "厨房": { "width": 750, "depth": 650 }, "阳台": { "width": 680, "depth": 600 } } }, "expectFollowup": false, "expectPath": "recommend_with_budget_allocation", "expectCategory": ["冰箱", "洗衣机"] },
+      { "seq": 3, "user": "冰箱把第一款和第三款对比一下", "expectIntent": "comparison", "expectSlots": {}, "expectFollowup": false, "expectPath": "compare", "expectCategory": ["冰箱"] },
+      { "seq": 4, "user": "就这个套餐了，怎么买？什么时候能送？", "expectIntent": "purchase_intent", "expectSlots": {}, "expectFollowup": true, "expectPath": "lead_invite", "expectCategory": ["冰箱", "洗衣机"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-PRE-02", "scenario": "售前咨询-冰箱海鲜冷冻", "intent": "pre_sales", "title": "单买冰箱，强调海鲜冷冻需求",
+    "turns": [
+      { "seq": 1, "user": "想买台冰箱，家里经常囤海鲜，预算5000左右", "expectIntent": "pre_sales", "expectSlots": { "category": "冰箱", "budgetMax": 5000, "seafoodStorage": 1 }, "expectFollowup": true, "expectPath": "ask_family_size", "expectCategory": ["冰箱"] },
+      { "seq": 2, "user": "四口人，厨房放得下", "expectIntent": "pre_sales", "expectSlots": { "familySize": 4 }, "expectFollowup": false, "expectPath": "recommend", "expectCategory": ["冰箱"] },
+      { "seq": 3, "user": "给我推荐静音一点的", "expectIntent": "pre_sales", "expectSlots": { "noisePriority": 1 }, "expectFollowup": false, "expectPath": "recommend", "expectCategory": ["冰箱"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-PRE-03", "scenario": "售前咨询-卧室空调", "intent": "pre_sales", "title": "卧室空调，面积与预算齐备",
+    "turns": [
+      { "seq": 1, "user": "想给卧室买台空调，14平米，预算3000到4000", "expectIntent": "pre_sales", "expectSlots": { "category": "空调", "roomArea": 14, "budgetMin": 3000, "budgetMax": 4000 }, "expectFollowup": true, "expectPath": "ask_preference", "expectCategory": ["空调"] },
+      { "seq": 2, "user": "晚上睡觉怕吵，要安静的", "expectIntent": "pre_sales", "expectSlots": { "noisePriority": 1 }, "expectFollowup": false, "expectPath": "recommend", "expectCategory": ["空调"] },
+      { "seq": 3, "user": "这些推荐里哪台最省电？", "expectIntent": "pre_sales", "expectSlots": { "energyPriority": 1 }, "expectFollowup": false, "expectPath": "recommend", "expectCategory": ["空调"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-PRE-04", "scenario": "售前咨询-电视预算模糊", "intent": "pre_sales", "title": "客厅电视，预算模糊触发追问",
+    "turns": [
+      { "seq": 1, "user": "客厅想换个电视", "expectIntent": "pre_sales", "expectSlots": { "category": "电视" }, "expectFollowup": true, "expectPath": "ask_budget", "expectCategory": ["电视"] },
+      { "seq": 2, "user": "预算四五千吧，客厅大概3米宽", "expectIntent": "pre_sales", "expectSlots": { "budgetMin": 4000, "budgetMax": 5000 }, "expectFollowup": false, "expectPath": "recommend", "expectCategory": ["电视"] },
+      { "seq": 3, "user": "平时主要看球赛和电影", "expectIntent": "pre_sales", "expectSlots": {}, "expectFollowup": false, "expectPath": "recommend", "expectCategory": ["电视"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-CMP-01", "scenario": "产品比较-冰箱对比", "intent": "comparison", "title": "冰箱两款对比决策",
+    "turns": [
+      { "seq": 1, "user": "三口人用，预算4000以内，想要台静音的冰箱", "expectIntent": "pre_sales", "expectSlots": { "category": "冰箱", "budgetMax": 4000, "familySize": 3, "noisePriority": 1 }, "expectFollowup": false, "expectPath": "recommend", "expectCategory": ["冰箱"] },
+      { "seq": 2, "user": "第一款和第二款有什么区别？", "expectIntent": "comparison", "expectSlots": {}, "expectFollowup": false, "expectPath": "compare", "expectCategory": ["冰箱"] },
+      { "seq": 3, "user": "那容量大的那台冷冻室够放海鲜吗？", "expectIntent": "comparison", "expectSlots": { "seafoodStorage": 1 }, "expectFollowup": false, "expectPath": "compare", "expectCategory": ["冰箱"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-CMP-02", "scenario": "产品比较-洗衣机类型对比", "intent": "comparison", "title": "滚筒与波轮洗衣机对比",
+    "turns": [
+      { "seq": 1, "user": "滚筒洗衣机和波轮哪个好？", "expectIntent": "comparison", "expectSlots": { "category": "洗衣机" }, "expectFollowup": true, "expectPath": "compare", "expectCategory": ["洗衣机"] },
+      { "seq": 2, "user": "预算2000多，两个人住", "expectIntent": "comparison", "expectSlots": { "budgetMax": 3000, "familySize": 2 }, "expectFollowup": false, "expectPath": "compare_with_recommend", "expectCategory": ["洗衣机"] },
+      { "seq": 3, "user": "把推荐里的两款放一起对比看看", "expectIntent": "comparison", "expectSlots": {}, "expectFollowup": false, "expectPath": "compare", "expectCategory": ["洗衣机"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-CMP-03", "scenario": "产品比较-空调挂机柜机", "intent": "comparison", "title": "挂机与柜机对比",
+    "turns": [
+      { "seq": 1, "user": "客厅30平，挂机和柜机选哪个？", "expectIntent": "comparison", "expectSlots": { "category": "空调", "roomArea": 30 }, "expectFollowup": false, "expectPath": "compare", "expectCategory": ["空调"] },
+      { "seq": 2, "user": "柜机占地大不大？", "expectIntent": "comparison", "expectSlots": {}, "expectFollowup": false, "expectPath": "compare", "expectCategory": ["空调"] },
+      { "seq": 3, "user": "预算8000以内推荐两款对比下", "expectIntent": "comparison", "expectSlots": { "budgetMax": 8000 }, "expectFollowup": false, "expectPath": "compare_with_recommend", "expectCategory": ["空调"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-CMP-04", "scenario": "产品比较-洗碗机对比", "intent": "comparison", "title": "洗碗机两款对比含价格因素",
+    "turns": [
+      { "seq": 1, "user": "看中两款洗碗机，一台5000一台7000，差在哪？", "expectIntent": "comparison", "expectSlots": { "category": "洗碗机" }, "expectFollowup": false, "expectPath": "compare", "expectCategory": ["洗碗机"] },
+      { "seq": 2, "user": "家里四口人，经常做饭", "expectIntent": "comparison", "expectSlots": { "familySize": 4 }, "expectFollowup": false, "expectPath": "compare", "expectCategory": ["洗碗机"] },
+      { "seq": 3, "user": "哪款更安静？厨房是开放的", "expectIntent": "comparison", "expectSlots": { "noisePriority": 1 }, "expectFollowup": false, "expectPath": "compare", "expectCategory": ["洗碗机"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-AFT-01", "scenario": "售后问题-冰箱不制冷", "intent": "after_sales", "title": "冰箱不制冷排查",
+    "turns": [
+      { "seq": 1, "user": "冰箱用了三年，最近不制冷了", "expectIntent": "after_sales", "expectSlots": { "category": "冰箱", "fault": "不制冷" }, "expectFollowup": true, "expectPath": "faq_troubleshooting", "expectCategory": ["冰箱"] },
+      { "seq": 2, "user": "按步骤检查了，还是不行", "expectIntent": "after_sales", "expectSlots": {}, "expectFollowup": true, "expectPath": "lead_service_ticket", "expectCategory": ["冰箱"] },
+      { "seq": 3, "user": "行，帮我约个维修", "expectIntent": "purchase_intent", "expectSlots": {}, "expectFollowup": true, "expectPath": "lead_invite", "expectCategory": ["冰箱"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-AFT-02", "scenario": "售后问题-洗衣机漏水", "intent": "after_sales", "title": "洗衣机底部漏水",
+    "turns": [
+      { "seq": 1, "user": "洗衣机底下漏水了，怎么办？", "expectIntent": "after_sales", "expectSlots": { "category": "洗衣机", "fault": "漏水" }, "expectFollowup": true, "expectPath": "faq_troubleshooting", "expectCategory": ["洗衣机"] },
+      { "seq": 2, "user": "检查了进水管没松，还在漏", "expectIntent": "after_sales", "expectSlots": {}, "expectFollowup": true, "expectPath": "lead_service_ticket", "expectCategory": ["洗衣机"] },
+      { "seq": 3, "user": "好的，记一下我的联系方式安排上门", "expectIntent": "purchase_intent", "expectSlots": {}, "expectFollowup": true, "expectPath": "lead_invite", "expectCategory": ["洗衣机"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-AFT-03", "scenario": "售后问题-热水器漏电（安全高危）", "intent": "after_sales", "title": "热水器跳闸疑似漏电，安全优先",
+    "turns": [
+      { "seq": 1, "user": "热水器一加热就跳闸，是不是漏电了？", "expectIntent": "after_sales", "expectSlots": { "category": "热水器", "fault": "跳闸漏电" }, "expectFollowup": true, "expectPath": "safety_first_faq", "expectCategory": ["热水器"] },
+      { "seq": 2, "user": "已经断电了，接下来怎么办？", "expectIntent": "after_sales", "expectSlots": {}, "expectFollowup": false, "expectPath": "professional_repair_only", "expectCategory": ["热水器"] },
+      { "seq": 3, "user": "帮我安排专业师傅上门", "expectIntent": "purchase_intent", "expectSlots": {}, "expectFollowup": true, "expectPath": "lead_invite", "expectCategory": ["热水器"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-AFT-04", "scenario": "售后问题-电视花屏", "intent": "after_sales", "title": "电视花屏排查",
+    "turns": [
+      { "seq": 1, "user": "电视最近老是花屏", "expectIntent": "after_sales", "expectSlots": { "category": "电视", "fault": "花屏" }, "expectFollowup": true, "expectPath": "faq_troubleshooting", "expectCategory": ["电视"] },
+      { "seq": 2, "user": "换了线还是花屏", "expectIntent": "after_sales", "expectSlots": {}, "expectFollowup": true, "expectPath": "lead_service_ticket", "expectCategory": ["电视"] },
+      { "seq": 3, "user": "电视买了两年，还在保修期吗？", "expectIntent": "after_sales", "expectSlots": {}, "expectFollowup": false, "expectPath": "faq_warranty", "expectCategory": ["电视"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-CPL-01", "scenario": "投诉建议-送货延迟", "intent": "complaint", "title": "冰箱送货延迟一周",
+    "turns": [
+      { "seq": 1, "user": "说好三天送到，冰箱拖了一个星期还没到，太差了！", "expectIntent": "complaint", "expectSlots": { "complaintTopic": "送货延迟", "category": "冰箱" }, "expectFollowup": true, "expectPath": "complaint_flow", "expectCategory": ["冰箱"] },
+      { "seq": 2, "user": "订单号是MOCK-8888，明天必须给我送到", "expectIntent": "complaint", "expectSlots": { "orderRef": "MOCK-8888" }, "expectFollowup": true, "expectPath": "complaint_lead_invite", "expectCategory": ["冰箱"] },
+      { "seq": 3, "user": "可以，留我电话跟进", "expectIntent": "purchase_intent", "expectSlots": {}, "expectFollowup": true, "expectPath": "lead_invite", "expectCategory": ["冰箱"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-CPL-02", "scenario": "投诉建议-安装收费争议", "intent": "complaint", "title": "空调安装辅材乱收费",
+    "turns": [
+      { "seq": 1, "user": "装空调被收了600块辅材费，页面说好的免费安装呢？", "expectIntent": "complaint", "expectSlots": { "complaintTopic": "安装收费争议", "category": "空调" }, "expectFollowup": true, "expectPath": "complaint_flow", "expectCategory": ["空调"] },
+      { "seq": 2, "user": "我有收费单据照片", "expectIntent": "complaint", "expectSlots": {}, "expectFollowup": true, "expectPath": "complaint_lead_invite", "expectCategory": ["空调"] },
+      { "seq": 3, "user": "行，你们核实完给我回复", "expectIntent": "purchase_intent", "expectSlots": {}, "expectFollowup": true, "expectPath": "lead_invite", "expectCategory": ["空调"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-CPL-03", "scenario": "投诉建议-噪音投诉", "intent": "complaint", "title": "洗衣机噪音大投诉",
+    "turns": [
+      { "seq": 1, "user": "新买的洗衣机脱水时吵得不行，跟介绍的不一样", "expectIntent": "complaint", "expectSlots": { "complaintTopic": "噪音大", "category": "洗衣机" }, "expectFollowup": true, "expectPath": "complaint_flow", "expectCategory": ["洗衣机"] },
+      { "seq": 2, "user": "没用，你们要么给我换要么修", "expectIntent": "complaint", "expectSlots": {}, "expectFollowup": true, "expectPath": "complaint_lead_invite", "expectCategory": ["洗衣机"] },
+      { "seq": 3, "user": "好，安排检测吧", "expectIntent": "purchase_intent", "expectSlots": {}, "expectFollowup": true, "expectPath": "lead_invite", "expectCategory": ["洗衣机"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-CPL-04", "scenario": "投诉建议-服务态度与建议", "intent": "complaint", "title": "客服响应慢并提出建议",
+    "turns": [
+      { "seq": 1, "user": "昨天咨询的问题到现在都没人回复，服务态度有问题", "expectIntent": "complaint", "expectSlots": { "complaintTopic": "响应慢" }, "expectFollowup": true, "expectPath": "complaint_flow", "expectCategory": [] },
+      { "seq": 2, "user": "建议你们加个进度提醒功能", "expectIntent": "complaint", "expectSlots": { "suggestion": "进度提醒功能" }, "expectFollowup": false, "expectPath": "suggestion_recorded", "expectCategory": [] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-INT-01", "scenario": "购买意向-直接下单意愿", "intent": "purchase_intent", "title": "指定购买推荐中的冰箱",
+    "turns": [
+      { "seq": 1, "user": "刚才推荐的那台冰箱我就要了，怎么买？", "expectIntent": "purchase_intent", "expectSlots": {}, "expectFollowup": true, "expectPath": "lead_invite", "expectCategory": ["冰箱"] },
+      { "seq": 2, "user": "可以，联系方式发你", "expectIntent": "purchase_intent", "expectSlots": { "consent": true }, "expectFollowup": true, "expectPath": "lead_form", "expectCategory": ["冰箱"] },
+      { "seq": 3, "user": "13800000001，白天都能联系", "expectIntent": "purchase_intent", "expectSlots": { "contact": "13800000001", "preferredTime": "白天" }, "expectFollowup": false, "expectPath": "lead_created", "expectCategory": ["冰箱"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-INT-02", "scenario": "购买意向-预约安装", "intent": "purchase_intent", "title": "预约洗碗机安装时间",
+    "turns": [
+      { "seq": 1, "user": "洗碗机预约周六上午安装", "expectIntent": "purchase_intent", "expectSlots": { "preferredTime": "周六上午" }, "expectFollowup": true, "expectPath": "lead_invite", "expectCategory": ["洗碗机"] },
+      { "seq": 2, "user": "同意生成预约单", "expectIntent": "purchase_intent", "expectSlots": { "consent": true }, "expectFollowup": true, "expectPath": "lead_form", "expectCategory": ["洗碗机"] },
+      { "seq": 3, "user": "手机13900000002", "expectIntent": "purchase_intent", "expectSlots": { "contact": "13900000002" }, "expectFollowup": false, "expectPath": "lead_created", "expectCategory": ["洗碗机"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-INT-03", "scenario": "购买意向-套餐下单", "intent": "purchase_intent", "title": "冰箱洗衣机套餐下单与优惠询问",
+    "turns": [
+      { "seq": 1, "user": "冰箱洗衣机套餐一起买有什么优惠？", "expectIntent": "purchase_intent", "expectSlots": { "categories": ["冰箱", "洗衣机"] }, "expectFollowup": false, "expectPath": "bundle_detail", "expectCategory": ["冰箱", "洗衣机"] },
+      { "seq": 2, "user": "行，那就这套了，帮我下单", "expectIntent": "purchase_intent", "expectSlots": {}, "expectFollowup": true, "expectPath": "lead_invite", "expectCategory": ["冰箱", "洗衣机"] },
+      { "seq": 3, "user": "13700000003，周末送货", "expectIntent": "purchase_intent", "expectSlots": { "contact": "13700000003", "preferredTime": "周末" }, "expectFollowup": false, "expectPath": "lead_created", "expectCategory": ["冰箱", "洗衣机"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-INT-04", "scenario": "购买意向-空调预约送货", "intent": "purchase_intent", "title": "空调购买后预约送货",
+    "turns": [
+      { "seq": 1, "user": "那台1.5匹的空调什么时候能送货？", "expectIntent": "purchase_intent", "expectSlots": { "category": "空调" }, "expectFollowup": true, "expectPath": "delivery_info_and_lead", "expectCategory": ["空调"] },
+      { "seq": 2, "user": "行，帮我登记预约", "expectIntent": "purchase_intent", "expectSlots": { "consent": true }, "expectFollowup": true, "expectPath": "lead_form", "expectCategory": ["空调"] },
+      { "seq": 3, "user": "13600000004，工作日晚上", "expectIntent": "purchase_intent", "expectSlots": { "contact": "13600000004", "preferredTime": "工作日晚上" }, "expectFollowup": false, "expectPath": "lead_created", "expectCategory": ["空调"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-CHAT-01", "scenario": "闲聊-天气", "intent": "chitchat", "title": "天气闲聊并引导回业务",
+    "turns": [
+      { "seq": 1, "user": "今天青岛天气真不错", "expectIntent": "chitchat", "expectSlots": {}, "expectFollowup": false, "expectPath": "chitchat_fallback", "expectCategory": [] },
+      { "seq": 2, "user": "对了，你们有什么推荐？", "expectIntent": "pre_sales", "expectSlots": {}, "expectFollowup": true, "expectPath": "ask_category", "expectCategory": [] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-CHAT-02", "scenario": "闲聊-问候", "intent": "chitchat", "title": "简单问候",
+    "turns": [
+      { "seq": 1, "user": "你好呀", "expectIntent": "chitchat", "expectSlots": {}, "expectFollowup": false, "expectPath": "chitchat_fallback", "expectCategory": [] },
+      { "seq": 2, "user": "冰箱怎么样？", "expectIntent": "pre_sales", "expectSlots": { "category": "冰箱" }, "expectFollowup": true, "expectPath": "ask_budget", "expectCategory": ["冰箱"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-CHAT-03", "scenario": "闲聊-无明确意图", "intent": "chitchat", "title": "无意义输入",
+    "turns": [
+      { "seq": 1, "user": "哈哈哈哈", "expectIntent": "chitchat", "expectSlots": {}, "expectFollowup": false, "expectPath": "chitchat_fallback", "expectCategory": [] },
+      { "seq": 2, "user": "洗衣机怎么修？", "expectIntent": "after_sales", "expectSlots": { "category": "洗衣机" }, "expectFollowup": true, "expectPath": "faq_troubleshooting", "expectCategory": ["洗衣机"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  },
+  {
+    "id": "TD-CHAT-04", "scenario": "闲聊-超纲请求", "intent": "chitchat", "title": "超纲请求兜底引导",
+    "turns": [
+      { "seq": 1, "user": "给我讲个笑话吧", "expectIntent": "chitchat", "expectSlots": {}, "expectFollowup": false, "expectPath": "chitchat_fallback", "expectCategory": [] },
+      { "seq": 2, "user": "算了，帮我看看热水器吧", "expectIntent": "pre_sales", "expectSlots": { "category": "热水器" }, "expectFollowup": true, "expectPath": "ask_budget", "expectCategory": ["热水器"] }
+    ],
+    "dataSource": "模拟测试集，仅供指标测算"
+  }
+]
